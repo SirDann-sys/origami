@@ -1,0 +1,70 @@
+{
+ "titulo": "O Rádio da Avó",
+ "sigla": "RA",
+ "assinatura": "Autor Exemplo",
+ "tipo": "organico",
+ "nivel_ia": "preservar",
+ "pov": "1a:lia",
+ "conteudo": "livre",
+ "plataformas": [
+  "tiktok",
+  "youtube",
+  "wattpad"
+ ],
+ "marca": "recursos/marca/padrao/marca.json",
+ "video": {
+  "destaque": "marca",
+  "titulo_tela": "O RÁDIO DA AVÓ",
+  "narrador": "lia"
+ },
+ "nomes": {
+  "lia": "Lia",
+  "tomas": "Tomás",
+  "avo": "A avó (voz no rádio)"
+ },
+ "elenco": {
+  "lia": "omni_f_madura_grave_s52",
+  "tomas": "omni_m_jovem_s8",
+  "avo": "omni_f_idosa_s15"
+ },
+ "divulgacao": {
+  "hashtag": "#orádiodaavó",
+  "rodape_legenda": "📖 O Rádio da Avó · por Autor Exemplo\n#orádiodaavó #folhetim #historianarrada"
+ },
+ "episodios": {
+  "01": {
+   "titulo": "A cozinha",
+   "piloto": true,
+   "mestre_aprovado": true,
+   "status": "roteiro em revisão",
+   "piloto_corrigido": "b36478735b9b67202db8c33426eb05995f1a13a0",
+   "mestre_aprovado_em": "2026-11-06 14:00",
+   "roteiro_conferido": true,
+   "audio_aprovado": {
+    "em": "2026-11-06 18:03",
+    "mix": {
+     "1": "eb32a4ceecd7ae60d735650b0819bf8b3991c6a7",
+     "2": "539abd782c925422f6bc903832ca806c1cae058c"
+    }
+   }
+  },
+  "02": {
+   "titulo": "Caderno azul"
+  }
+ },
+ "criada_em": "2026-11-06",
+ "entrada": {
+  "etapa": "pronta para o Ep. 01",
+  "linhas": 75,
+  "arquivos": [
+   "o_radio_da_avo.md"
+  ],
+  "atualizado": "2026-11-06 13:53",
+  "auto": false,
+  "episodios": 2
+ },
+ "piloto": {
+  "prazo_h": 0.05
+ },
+ "vozes_pedidas": {}
+}

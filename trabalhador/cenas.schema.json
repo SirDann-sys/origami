@@ -1,0 +1,14 @@
+{
+ "type": "object",
+ "properties": {
+  "cenas": {"type": "array", "items": {"type": "object", "properties": {
+    "id": {"type": "string"}, "uso": {"type": "string"}, "formato": {"type": "string", "enum": ["alto", "largo", "quadrado", "panorama"]},
+    "prompt": {"type": "string"}, "trecho": {"type": "string"}}, "required": ["id", "uso", "formato", "prompt", "trecho"]}},
+  "miniatura": {"type": "object", "properties": {"cena": {"type": "string"}, "titulo": {"type": "array", "items": {"type": "string"}},
+    "sub": {"type": "array", "items": {"type": "string"}}}, "required": ["cena", "titulo", "sub"]},
+  "partes": {"type": "array", "items": {"type": "object", "properties": {"n": {"type": "integer"}, "cena": {"type": "string"},
+    "gancho": {"type": "array", "items": {"type": "string"}}}, "required": ["n", "cena", "gancho"]}},
+  "topo_wattpad": {"type": "string"}
+ },
+ "required": ["cenas", "miniatura", "partes", "topo_wattpad"]
+}

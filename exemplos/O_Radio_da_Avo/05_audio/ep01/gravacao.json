@@ -1,0 +1,473 @@
+{
+  "falas": {
+    "01_01": {
+      "voz": "lia",
+      "texto": "A casa da minha avó ainda cheirava a café requentado quando eu cheguei, três dias depois do enterro.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 7.17,
+      "historico": [
+        0.056
+      ],
+      "erro_leitura": 0.056,
+      "transcricao": "A casa da minha avó ainda cheirava café requentado quando eu cheguei, três dias depois do enterro.",
+      "revisar": false
+    },
+    "01_02": {
+      "voz": "lia",
+      "texto": "Ninguém tinha lavado a xícara dela.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 3.21,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Ninguém tinha lavado a xícara dela.",
+      "revisar": false
+    },
+    "01_03": {
+      "voz": "lia",
+      "texto": "Estava em cima da pia, com a marca do batom vermelho na borda, do jeito que ela deixava toda manhã antes de abrir a janela e reclamar do vizinho.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 10.22,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Estava em cima da pia, com a marca do batom vermelho na borda, do jeito que ela deixava toda manhã antes de abrir a janela e reclamar do vizinho.",
+      "revisar": false
+    },
+    "01_04": {
+      "voz": "lia",
+      "texto": "Meu irmão Tomás já estava lá, sentado à mesa da cozinha, com uma pilha de envelopes na frente e a cara de quem não dormia fazia uma semana.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 9.15,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Meu irmão Tomás já estava lá, sentado à mesa da cozinha, com uma pilha de envelopes na frente e a cara de quem não dormia fazia uma semana.",
+      "revisar": false
+    },
+    "01_05": {
+      "voz": "tomas",
+      "texto": "Você demorou.",
+      "tentativas": 2,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 0.87,
+      "historico": [
+        0.5,
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Você demorou.",
+      "revisar": false
+    },
+    "01_06": {
+      "voz": "lia",
+      "texto": "ele disse, sem levantar os olhos.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 2.62,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Ele disse sem levantar os olhos.",
+      "revisar": false
+    },
+    "01_07": {
+      "voz": "lia",
+      "texto": "O ônibus quebrou na serra. Duas horas parada no acostamento.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 4.73,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "O ônibus quebrou na serra. Duas horas parada no acostamento.",
+      "revisar": false
+    },
+    "01_08": {
+      "voz": "tomas",
+      "texto": "Claro que quebrou.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 1.12,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Claro que quebrou.",
+      "revisar": false
+    },
+    "01_09": {
+      "voz": "lia",
+      "texto": "Ele empurrou um envelope na minha direção. Era do banco.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 4.59,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Ele empurrou um envelope na minha direção. Era do banco.",
+      "revisar": false
+    },
+    "01_10": {
+      "voz": "lia",
+      "texto": "Dentro, uma carta curta, educada, dizendo que a casa tinha uma dívida de quarenta mil reais e que, se ninguém pagasse até o fim do mês, ela iria a leilão.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 12.84,
+      "historico": [
+        0.033
+      ],
+      "erro_leitura": 0.033,
+      "transcricao": "Dentro, uma carta curta, educada, dizendo que a casa tinha uma dívida de 40 mil reais e que, se ninguém pagasse até o fim do mês, ela iria a leilão.",
+      "revisar": false
+    },
+    "01_11": {
+      "voz": "lia",
+      "texto": "Quarenta mil?",
+      "tentativas": 3,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 0.99,
+      "historico": [
+        0.5,
+        0.5,
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Quarenta mil.",
+      "revisar": false
+    },
+    "01_12": {
+      "voz": "lia",
+      "texto": "Eu li de novo, como se os números fossem mudar.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 3.44,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Eu li de novo, como se os números fossem mudar.",
+      "revisar": false
+    },
+    "01_13": {
+      "voz": "lia",
+      "texto": "A vó nunca pediu dinheiro a ninguém.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 2.07,
+      "historico": [
+        0.143
+      ],
+      "erro_leitura": 0.143,
+      "transcricao": "A avó nunca pediu dinheiro a ninguém.",
+      "revisar": false
+    },
+    "01_14": {
+      "voz": "tomas",
+      "texto": "Pediu ao banco. Hipotecou a casa há dois anos.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 2.75,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Pediu ao banco. Hipotecou a casa há dois anos.",
+      "revisar": false
+    },
+    "01_15": {
+      "voz": "lia",
+      "texto": "Tomás esfregou os olhos.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 1.73,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Tomás esfregou os olhos.",
+      "revisar": false
+    },
+    "01_16": {
+      "voz": "tomas",
+      "texto": "E não contou para ninguém, Lia. Nem para mim, que morava a dez minutos daqui.",
+      "tentativas": 3,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 4.24,
+      "historico": [
+        0.2,
+        0.2,
+        0.133
+      ],
+      "erro_leitura": 0.133,
+      "transcricao": "E não contou pra ninguém, Lia. Nem pra mim, que morava a dez minutos daqui.",
+      "revisar": false
+    },
+    "01_17": {
+      "voz": "lia",
+      "texto": "Fiquei olhando a xícara na pia. A marca de batom.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 3.89,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Fiquei olhando a xícara na pia. A marca de batom.",
+      "revisar": false
+    },
+    "01_18": {
+      "voz": "lia",
+      "texto": "A colher dentro, atravessada, do jeito que ela dizia que dava azar.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 5.24,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "A colher dentro, atravessada, do jeito que ela dizia que dava azar.",
+      "revisar": false
+    },
+    "01_19": {
+      "voz": "lia",
+      "texto": "Para que ela precisaria de quarenta mil reais?",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 2.77,
+      "historico": [
+        0.125
+      ],
+      "erro_leitura": 0.125,
+      "transcricao": "Para que ela precisaria de 40 mil reais?",
+      "revisar": false
+    },
+    "02_01": {
+      "voz": "tomas",
+      "texto": "É isso que eu estou tentando descobrir desde ontem.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 2.56,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "É isso que eu estou tentando descobrir desde ontem.",
+      "revisar": false
+    },
+    "02_02": {
+      "voz": "lia",
+      "texto": "Ele abriu as mãos sobre os envelopes.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 2.27,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Ele abriu as mãos sobre os envelopes.",
+      "revisar": false
+    },
+    "02_03": {
+      "voz": "tomas",
+      "texto": "Contas de luz, de água, um carnê de farmácia. Nada de viagem, nada de reforma.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 4.39,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Contas de luz, de água, um carnê de farmácia, nada de viagem, nada de reforma.",
+      "revisar": false
+    },
+    "02_04": {
+      "voz": "tomas",
+      "texto": "Ela não comprou nem uma geladeira nova. Aquela ali é de mil novecentos e noventa e oito.",
+      "tentativas": 3,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 5.09,
+      "historico": [
+        0.353,
+        0.471,
+        0.471
+      ],
+      "erro_leitura": 0.471,
+      "transcricao": "Ela não comprou nenhuma geladeira nova. Aquela ali é de 1998.",
+      "revisar": true
+    },
+    "02_05": {
+      "voz": "lia",
+      "texto": "A geladeira fez um barulho de motor velho, como se concordasse.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 5.07,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "A geladeira fez um barulho de motor velho, como se concordasse.",
+      "revisar": false
+    },
+    "02_06": {
+      "voz": "lia",
+      "texto": "Eu me sentei na frente dele. A cadeira rangeu do mesmo jeito que rangia quando eu tinha oito anos e fazia o dever de casa ali, enquanto ela ouvia o rádio e cantava junto, desafinada, as músicas que tocavam depois das dez da noite.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 15.48,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Eu me sentei na frente dele. A cadeira rangeu do mesmo jeito que rangia quando eu tinha oito anos e fazia o dever de casa ali. Enquanto ela ouvia o rádio e cantava junto, desafinada, as músicas que tocavam depois das dez da noite.",
+      "revisar": false
+    },
+    "02_07": {
+      "voz": "lia",
+      "texto": "O rádio.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 0.93,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "O rádio.",
+      "revisar": false
+    },
+    "02_08": {
+      "voz": "lia",
+      "texto": "eu disse.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 0.86,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Eu disse.",
+      "revisar": false
+    },
+    "02_09": {
+      "voz": "tomas",
+      "texto": "Que rádio?",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 1.32,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Que rádio!",
+      "revisar": false
+    },
+    "02_10": {
+      "voz": "lia",
+      "texto": "O dela. Aquele de madeira, com os botões dourados. Ela ouvia todo dia.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 5.37,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "O dela. Aquele de madeira, com os botões dourados. Ela ouvia todo dia.",
+      "revisar": false
+    },
+    "02_11": {
+      "voz": "lia",
+      "texto": "Cadê?",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 0.68,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Cadê?",
+      "revisar": false
+    },
+    "02_12": {
+      "voz": "lia",
+      "texto": "Tomás olhou para a prateleira em cima da geladeira. Estava vazia.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 4.78,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Tomás olhou para a prateleira em cima da geladeira. Estava vazia.",
+      "revisar": false
+    },
+    "02_13": {
+      "voz": "lia",
+      "texto": "Só um retângulo mais claro na parede, onde a tinta não tinha desbotado.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 4.07,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Só um retângulo mais claro na parede, onde a tinta não tinha desbotado.",
+      "revisar": false
+    },
+    "02_14": {
+      "voz": "tomas",
+      "texto": "Não sei. Não estava aqui quando eu cheguei.",
+      "tentativas": 1,
+      "conferida": true,
+      "refazer": false,
+      "duracao": 2.64,
+      "historico": [
+        0.0
+      ],
+      "erro_leitura": 0.0,
+      "transcricao": "Não sei, não estava aqui quando eu cheguei.",
+      "revisar": false
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+ "obra": "O Rádio da Avó",
+ "titulo_tela": "O RÁDIO DA AVÓ",
+ "narrador": "lia",
+ "nomes": {
+  "lia": "Lia",
+  "tomas": "Tomás",
+  "avo": "A avó (voz no rádio)"
+ },
+ "retratos": {
+  "lia": {
+   "trabalho": "retrato_lia"
+  },
+  "tomas": {
+   "trabalho": "retrato_tomas"
+  }
+ },
+ "comentario": "segmentos: [fala_inicial (1-based), fundo, figurino]. O fundo vale da fala indicada até a próxima mudança.",
+ "episodio": 1,
+ "partes": {
+  "1": [
+   [
+    1,
+    "fundo_cozinha_avo",
+    "fora"
+   ]
+  ],
+  "2": [
+   [
+    1,
+    "fundo_cozinha_avo",
+    "fora"
+   ]
+  ]
+ }
+}

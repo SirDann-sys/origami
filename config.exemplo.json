@@ -1,0 +1,8 @@
+{
+  "_nota": "Copie para config.json. Só o que fica FORA da pasta do app; todo o resto é relativo a ela.",
+  "porta": 3950,
+  "voicestudio": "http://127.0.0.1:3900",
+  "comfy": "http://127.0.0.1:8188",
+  "bash": "C:\\caminho\\para\\Git\\bin\\bash.exe",
+  "soundcraft_cli": "C:\\caminho\\para\\soundcraft-cli.exe"
+}

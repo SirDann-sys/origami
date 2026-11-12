@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Origami · demonstração</title>
+<meta name="description" content="Origami: do texto ao episódio publicado. Demonstração somente leitura.">
+<link rel="stylesheet" href="/ui/estilo.css">
+<link rel="stylesheet" href="/ui/tema.css">
+<link rel="stylesheet" href="/ui/demo.css">
+<link rel="icon" href="/ui/origami.svg" type="image/svg+xml">
+</head>
+<body>
+<!-- Menu lateral agrupado pelo fluxo (escrever → produzir → publicar); o topo fica com a obra e os episódios. -->
+<aside id="lateral">
+  <div class="marca"><img src="/ui/origami.svg" alt=""><div><b>ORIGAMI</b><small>do texto ao episódio</small></div></div>
+  <nav id="abas">
+    <div class="grupo">Escrever</div>
+    <button data-tela="mesa" class="on"><svg viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="9" rx="1.5"/><rect x="14" y="3" width="7" height="5" rx="1.5"/><rect x="14" y="12" width="7" height="9" rx="1.5"/><rect x="3" y="16" width="7" height="5" rx="1.5"/></svg>Mesa<span id="pend-n" class="badge" hidden></span></button>
+    <button data-tela="texto"><svg viewBox="0 0 24 24"><path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5M9 12h7M9 16h7"/></svg>Texto</button>
+    <div class="grupo">Produzir</div>
+    <button data-tela="elenco"><svg viewBox="0 0 24 24"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/></svg>Elenco</button>
+    <button data-tela="revisao"><svg viewBox="0 0 24 24"><path d="M3 12h2M7 8v8M11 5v14M15 9v6M19 7v10M21 12h0"/></svg>Áudio</button>
+    <button data-tela="video"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="M10 9.5v5l4.5-2.5z"/></svg>Vídeo</button>
+    <button data-tela="imagens"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2.5"/><circle cx="9" cy="10" r="2"/><path d="M21 16l-5-5-9 9"/></svg>Imagens</button>
+    <button data-tela="arte"><svg viewBox="0 0 24 24"><path d="M4 20l6-15 3 7 4-3 3 11z"/></svg>Arte e capas</button>
+    <div class="grupo">Publicar</div>
+    <button data-tela="pub"><svg viewBox="0 0 24 24"><path d="M4 7l8-4 8 4v10l-8 4-8-4z"/><path d="M4 7l8 4 8-4M12 11v10"/></svg>Entrega e kit</button>
+    <button data-tela="postagem"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2.5"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Postagem</button>
+    <div class="grupo">Sistema</div>
+    <button data-tela="fila"><svg viewBox="0 0 24 24"><path d="M8 6h13M8 12h13M8 18h13M3.5 6h0M3.5 12h0M3.5 18h0"/></svg>Fila e custo</button>
+    <button data-tela="arquivos"><svg viewBox="0 0 24 24"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>Arquivos</button>
+    <button data-tela="obranova"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 8v8M8 12h8"/></svg>Obra nova</button>
+  </nav>
+  <div id="motor" class="pill">motor…</div>
+</aside>
+<header>
+  <select id="obra" title="Obra"></select>
+  <div id="eps" class="eps"></div>
+</header>
+<main id="obranova" class="tela">
+  <section class="fl-col"><h2>Criar uma obra nova</h2><div id="ob-criar"></div>
+    <p class="ctx">Depois de criar, a obra aparece na lista do topo. Para continuar uma obra já criada, escolha-a no topo e volte aqui.</p></section>
+  <section class="fl-col"><div id="ob-passos"></div><div id="ob-est" style="margin-top:20px"></div></section>
+</main>
+<main id="arquivos" class="tela">
+  <section class="fl-col" style="grid-column:1 / -1"><h2>Arquivos <small>organizar sem apagar nada</small></h2><div id="aq-lista"></div></section>
+</main>
+<main id="fila" class="tela">
+  <section class="fl-col"><h2>Fila do motor <small id="fl-estado"></small></h2><table id="fl-jobs" class="reg fl-tab"></table><div id="fl-log"></div></section>
+  <section class="fl-col"><h2>Custo da obra</h2><div id="fl-custo"></div></section>
+</main>
+<main id="mesa" class="tela on">
+  <section class="col mapa">
+    <h2>Mapa <small>o que acontece neste episódio</small></h2>
+    <div id="mapa" class="md"></div>
+    <h3>Regras fixas da obra</h3>
+    <ul id="regras" class="regras"></ul>
+  </section>
+  <section class="col decisoes">
+    <h2>Decisões <small id="dec-resumo"></small></h2>
+    <div id="decisoes"></div>
+  </section>
+  <section class="col etapas">
+    <div id="pendencias"></div>
+    <h2>Etapas <small>do texto à entrega</small></h2>
+    <ol id="etapas"></ol>
+  </section>
+</main>
+<main id="texto" class="tela">
+  <section class="tx-leitura"><div id="tx-cab"></div><article id="tx-texto" class="tx-artigo"></article></section>
+  <section class="tx-lado">
+    <div id="aj-titulo"></div>
+    <div id="tx-acoes"></div>
+    <h2>Alarme de erro crítico <small id="tx-al-data"></small></h2>
+    <div id="tx-alertas"></div>
+    <h2 style="margin-top:18px">Notas de adaptação</h2>
+    <div id="tx-notas" class="md"></div>
+  </section>
+</main>
+<main id="elenco" class="tela">
+  <section class="el-col"><h2>Elenco da obra <small>vozes aprovadas</small></h2><div id="el-lista"></div>
+    <h2 style="margin-top:18px">Precisa de voz</h2><div id="el-pend"></div></section>
+  <section class="el-col"><h2>Criar voz <small>OmniVoice: descrição + semente</small></h2><div id="el-form" class="ar-form"></div>
+    <h2 style="margin-top:30px">Pronúncia <small>como a voz fala; o texto escrito não muda</small></h2><div id="el-pron"></div></section>
+  <section class="el-col"><h2>Candidatas <small>ouça e aprove uma</small></h2><div id="el-cands"></div></section>
+</main>
+<main id="revisao" class="tela">
+  <div id="rv-aprovacao"></div>
+  <div id="aj-trilha"></div>
+  <div class="rv-topo">
+    <div id="rv-partes" class="rv-partes"></div>
+    <button id="rv-play" class="primario">▶ Ouvir</button>
+    <span id="rv-tempo" class="rv-tempo">0:00 / 0:00</span>
+    <span id="rv-resumo" class="rv-resumo"></span>
+  </div>
+  <canvas id="rv-onda" height="140"></canvas>
+  <p class="dica">Clique na onda no ponto do problema: a fala daquele momento abre ao lado. Espaço = tocar/pausar.</p>
+  <div class="rv-corpo">
+    <ol id="rv-falas" class="rv-falas"></ol>
+    <section id="rv-fala" class="rv-fala"><p class="ctx">Escolha uma fala na onda ou na lista.</p></section>
+  </div>
+  <audio id="rv-audio" preload="auto"></audio>
+  <audio id="rv-audio-fala" preload="none"></audio>
+</main>
+<main id="video" class="tela">
+  <section class="vd-player">
+    <div id="vd-partes" class="rv-partes"></div>
+    <video id="vd-video" controls preload="metadata"></video>
+  </section>
+  <section class="vd-lado">
+    <div id="aj-segmentos"></div>
+    <h2>Marcar um ponto <small>pause no problema e escreva</small></h2>
+    <div class="ar-form">
+      <div class="linha"><b id="vd-t">0:00.0</b>
+        <select id="vd-tipo"><option value="imagem">imagem (fundo/retrato)</option><option value="legenda">legenda (travou, errada, fora de tempo)</option><option value="regra visual">regra visual (layout, luz, cor)</option><option value="tempo">tempo (troca de cena, card)</option></select></div>
+      <textarea id="vd-nota" placeholder="ex.: no silêncio a luz acende"></textarea>
+      <div class="acoes"><button id="vd-marcar" class="primario">Marcar aqui</button></div>
+    </div>
+    <h3>Marcas desta parte</h3>
+    <ul id="vd-marcas" class="vd-marcas"></ul>
+    <h3>Checagens automáticas</h3>
+    <ul id="vd-checks" class="vd-checks"></ul>
+    <h3>Prévia em quadros <small>trocas de falante e de cenário, começo e cartão final</small></h3>
+    <div class="acoes"><button id="vd-gerar-previa">Gerar prévia desta parte</button></div>
+    <div id="vd-previa" class="ar-mini"></div>
+  </section>
+</main>
+<main id="imagens" class="tela">
+  <section class="ar-cenas"><h2>Novas neste episódio <small id="iv-resumo"></small></h2><div id="iv-lista"></div>
+    <div id="iv-faltam"></div></section>
+  <section class="ar-centro" id="iv-centro"><p class="ctx">Escolha uma imagem.</p></section>
+  <section class="ar-lado"><h2>Biblioteca da série <small>reaproveitadas</small></h2><div id="iv-bib" class="ar-mini"></div></section>
+</main>
+<main id="arte" class="tela">
+  <section class="ar-cenas">
+    <h2>Cenas <small id="ar-resumo"></small></h2>
+    <div id="ar-lista"></div>
+    <div class="acoes"><button id="ar-nova">+ Nova cena</button><button id="ar-sugerir" class="primario">Sugerir cenas e ganchos</button></div>
+  </section>
+  <section class="ar-centro" id="ar-centro"><p class="ctx">Escolha uma cena.</p></section>
+  <section class="ar-lado">
+    <div id="aj-guia"></div>
+    <h2>Consistência</h2>
+    <h3>Aparência das personagens <small>vai junto em cada cena</small></h3>
+    <div id="ar-refs" class="ar-mini"></div>
+    <h3>Episódio anterior <small id="ar-ant-ep"></small></h3>
+    <div id="ar-anterior" class="ar-mini"></div>
+    <h3>Grade do perfil <small>como aparece no TikTok (3:4)</small></h3>
+    <div id="ar-grade" class="ar-grade"></div>
+    <h3>Peças deste episódio</h3>
+    <div id="ar-finais" class="ar-mini"></div>
+    <button id="ar-montar">Montar capas e miniatura</button>
+  </section>
+</main>
+<main id="pub" class="tela">
+  <section class="pb-kit"><h2>Kit de postagem <small>clique em copiar e cole na rede</small></h2><div id="pb-kit"></div></section>
+  <section class="pb-lado">
+    <h2>Entrega <small id="pb-pasta"></small></h2>
+    <div class="acoes"><button id="pb-entregar" class="primario">Entregar tudo</button></div>
+    <ul id="pb-itens" class="pb-itens"></ul>
+    <h2 style="margin-top:20px">Registro de postagem <small>o app não posta: você posta e marca aqui</small></h2>
+    <div id="pb-registro"></div>
+    <div id="aj-publicado"></div>
+  </section>
+</main>
+<main id="postagem" class="tela">
+  <section class="pg-esq"><div id="aj-cal"></div><h2>Postiz <small>agenda nas redes</small></h2><div id="pg-conexao"></div>
+    <h2 style="margin-top:22px">Sugerir calendário</h2><div id="pg-sugerir"></div></section>
+  <section class="pg-centro"><div id="pg-barra" class="pg-barra"></div><div id="pg-confirma" hidden></div><div id="pg-grade" class="pg-grade"></div></section>
+  <section class="pg-dir" id="pg-lado"></section>
+</main>
+<div id="avisos"></div>
+<p id="demo-carregando">Carregando a demonstração…</p>
+<script src="/iniciar.js" data-scripts="/ui/demo.js,/ui/app.js,/ui/texto.js,/ui/elenco.js,/ui/pronuncia.js,/ui/revisao.js,/ui/arte.js,/ui/imagens.js,/ui/video.js,/ui/publicacao.js,/ui/postagem.js,/ui/fila.js,/ui/obra.js,/ui/pendencias.js,/ui/ajustes.js,/ui/arquivos.js"></script>
+</body>
+</html>

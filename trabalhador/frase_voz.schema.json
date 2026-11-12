@@ -1,0 +1,1 @@
+{"type":"object","properties":{"frases":{"type":"array","items":{"type":"string"},"minItems":3,"maxItems":3},"recomendada":{"type":"integer"},"motivo":{"type":"string"}},"required":["frases","recomendada","motivo"]}

@@ -1,0 +1,53 @@
+{
+ "saida": "final",
+ "serie": "O RÁDIO DA AVÓ · EP. 1",
+ "total": 2,
+ "miniatura": {
+  "arquivo": "miniatura_ep01.jpg",
+  "cena": "mini_envelopes",
+  "foco": [
+   0.62,
+   0.5
+  ],
+  "serie": "O RÁDIO DA AVÓ · EP. 1",
+  "titulo": [
+   "E NÃO CONTOU",
+   "PARA NINGUÉM"
+  ],
+  "sub": [
+   "40 mil de dívida.",
+   "Prazo: fim do mês."
+  ],
+  "imagem": "mini_envelopes.png"
+ },
+ "partes": [
+  {
+   "n": 1,
+   "cena": "p01_xicara",
+   "foco": [
+    0.5,
+    0.5
+   ],
+   "gancho": [
+    "— Quarenta mil?",
+    "A vó nunca pediu",
+    "dinheiro a ninguém."
+   ],
+   "imagem": "p01_xicara.png"
+  },
+  {
+   "n": 2,
+   "cena": "p02_prateleira",
+   "foco": [
+    0.5,
+    0.5
+   ],
+   "gancho": [
+    "— O rádio.",
+    "Não estava aqui",
+    "quando eu cheguei."
+   ],
+   "imagem": "p02_prateleira.png"
+  }
+ ]
+}

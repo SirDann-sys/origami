@@ -1,0 +1,160 @@
+{
+ "regras": [],
+ "itens": [
+  {
+   "id": "I-01",
+   "tipo": "inconsistencia",
+   "eps": [
+    "01",
+    "02"
+   ],
+   "titulo": "A avó não tem nome",
+   "contexto": "A avó é o centro da trama e da voz no rádio, mas o texto só a chama de 'a vó' ou 'minha avó'. O guia de arte, o elenco e a divulgação precisam de um rótulo fixo, e ela não pode ganhar nomes diferentes em episódios diferentes.",
+   "opcoes": [
+    "Manter sem nome e chamá-la sempre de 'a vó' ou 'a avó' nos roteiros",
+    "Dar um nome próprio agora (definido pelo autor) para usar na bíblia e no futuro",
+    "Revelar o nome mais tarde, por exemplo dito pela voz no rádio ou por Rosa Albuquerque"
+   ],
+   "recomendada": 0,
+   "recomendacao": "Manter 'a vó'. O anonimato reforça o ponto de vista afetivo da neta, e isso não impede de dar nome a ela depois.",
+   "estado": "decidido",
+   "decisao": "Manter sem nome e chamá-la sempre de 'a vó' ou 'a avó' nos roteiros",
+   "nota": "teste automático: opção recomendada",
+   "data": "2026-11-06"
+  },
+  {
+   "id": "I-02",
+   "tipo": "inconsistencia",
+   "eps": [
+    "01",
+    "02"
+   ],
+   "titulo": "Idades de Lia, Tomás e da avó não definidas",
+   "contexto": "O texto só diz que Lia tinha 8 anos nas lembranças da cozinha (L29). Precisamos das idades atuais para a voz, a arte e para saber quem é o irmão mais velho.",
+   "opcoes": [
+    "Lia com cerca de 28 anos e Tomás com cerca de 32 (mais velho), avó com cerca de 80",
+    "Lia com cerca de 30 e Tomás com cerca de 26 (mais novo, o que ficou perto da avó), avó com cerca de 80",
+    "Não fixar números e manter só as faixas (adultos jovens, avó idosa)"
+   ],
+   "recomendada": 0,
+   "recomendacao": "Lia com cerca de 28 e Tomás com cerca de 32. O irmão mais velho que ficou e cuidou explica bem o ressentimento e a cobrança dele.",
+   "estado": "decidido",
+   "decisao": "Lia com cerca de 28 anos e Tomás com cerca de 32 (mais velho), avó com cerca de 80",
+   "nota": "teste automático: opção recomendada",
+   "data": "2026-11-06"
+  },
+  {
+   "id": "I-03",
+   "tipo": "inconsistencia",
+   "eps": [
+    "01",
+    "02"
+   ],
+   "titulo": "Aparência física dos personagens ausente no texto",
+   "contexto": "Não há descrição física de ninguém. O único traço é o batom vermelho da avó (L5). Os joelhos ruins do Tomás (L55) e a letra de professora da avó (L57) dão pistas, mas não aparência.",
+   "opcoes": [
+    "Adotar as aparências propostas na bíblia e no guia de arte como canônicas",
+    "O autor define as aparências antes da geração de imagens",
+    "Evitar rostos nas imagens (silhuetas, mãos, objetos) e usar os retratos só nos cards"
+   ],
+   "recomendada": 0,
+   "recomendacao": "Adotar a proposta da bíblia, que é sóbria e coerente com o texto, e travar a aparência para que não mude entre episódios.",
+   "estado": "decidido",
+   "decisao": "Adotar as aparências propostas na bíblia e no guia de arte como canônicas",
+   "nota": "teste automático: opção recomendada",
+   "data": "2026-11-06"
+  },
+  {
+   "id": "I-04",
+   "tipo": "inconsistencia",
+   "eps": [
+    "01",
+    "02"
+   ],
+   "titulo": "Quem levou e limpou o rádio no sótão",
+   "contexto": "Tomás diz que ninguém sobe ao sótão desde que o vô morreu (L45). Mesmo assim, o rádio saiu da cozinha e está numa mesinha limpa com cuidado (L49–L51), e Tomás diz que o rádio já não estava lá quando ele chegou (L39).",
+   "opcoes": [
+    "Foi a avó, antes de morrer, preparando a 'tarefa' para a Lia",
+    "Foi outra pessoa depois do enterro (um dos doze, o vizinho)",
+    "Fica sem explicação, ambíguo ou sobrenatural"
+   ],
+   "recomendada": 0,
+   "recomendacao": "Nos roteiros, deixar em aberto (não afirmar nada). Para planejar internamente, a opção 1 é a mais coerente com o bilhete 'Se eu não conseguir terminar'.",
+   "estado": "decidido",
+   "decisao": "Foi a avó, antes de morrer, preparando a 'tarefa' para a Lia",
+   "nota": "teste automático: opção recomendada",
+   "data": "2026-11-06"
+  },
+  {
+   "id": "I-05",
+   "tipo": "inconsistencia",
+   "eps": [
+    "02"
+   ],
+   "titulo": "A voz do rádio: gravação ou sobrenatural",
+   "contexto": "Em L69–L75, uma voz de mulher lê a lista por baixo do chiado, e Tomás diz que 'não é uma estação de rádio'. O texto não decide o que é, e isso muda o tom da série inteira (realista ou fantástico).",
+   "opcoes": [
+    "Ambiguidade total por enquanto (o roteiro não sugere nenhum dos dois lados)",
+    "Gravação ou transmissão preparada pela avó (realista)",
+    "Fenômeno sobrenatural assumido"
+   ],
+   "recomendada": 0,
+   "recomendacao": "Manter a ambiguidade. A fonte termina nesse gancho e qualquer escolha agora seria spoiler ou invenção.",
+   "estado": "pendente"
+  },
+  {
+   "id": "I-06",
+   "tipo": "inconsistencia",
+   "eps": [
+    "02"
+   ],
+   "titulo": "O que significa 'a Lia sabe ligar o rádio'",
+   "contexto": "O bilhete (L65) dá à Lia um saber especial, mas para ligar o rádio basta girar o botão dourado da esquerda (L69).",
+   "opcoes": [
+    "Vem de uma lembrança da infância (a avó ensinou um jeito ou um horário, depois das dez da noite) e pode ser expandida no Ep. 01 via L29",
+    "Só a Lia 'sintoniza' a voz (vínculo afetivo ou sobrenatural)",
+    "Deixar sem explicação"
+   ],
+   "recomendada": 0,
+   "recomendacao": "Plantar na expansão da memória de L29 um detalhe neutro (a avó deixando a menina girar o botão), sem explicar o sentido. Isso dá base sem resolver o mistério.",
+   "estado": "pendente"
+  },
+  {
+   "id": "I-07",
+   "tipo": "inconsistencia",
+   "eps": [
+    "01"
+   ],
+   "titulo": "Tomás 'não dorme há uma semana', mas o enterro foi há três dias",
+   "contexto": "L7 indica um desgaste anterior à morte, o que sugere doença ou internação da avó. O texto não diz como ela morreu.",
+   "opcoes": [
+    "A avó ficou alguns dias doente ou internada e Tomás a acompanhou (sem detalhar)",
+    "Tratar como hipérbole da narradora e não comentar",
+    "Morte súbita, e o cansaço vem do trabalho ou da vida dele"
+   ],
+   "recomendada": 1,
+   "recomendacao": "Tratar como hipérbole e não inventar a causa da morte. Se for preciso, só um aceno vago ao cansaço dos últimos dias.",
+   "estado": "decidido",
+   "decisao": "Tratar como hipérbole da narradora e não comentar",
+   "nota": "teste automático: opção recomendada",
+   "data": "2026-11-06"
+  },
+  {
+   "id": "I-08",
+   "tipo": "inconsistencia",
+   "eps": [
+    "02"
+   ],
+   "titulo": "Hora e dia do Ep. 02",
+   "contexto": "O trecho não diz se a subida ao sótão é logo depois da cozinha. A lanterna do celular sugere escuridão, mas o sótão pode simplesmente ser escuro.",
+   "opcoes": [
+    "Continuação direta, no mesmo dia, ainda de tarde",
+    "Mesma noite, depois das dez (ecoando o horário em que a avó ouvia o rádio)",
+    "Dia seguinte"
+   ],
+   "recomendada": 0,
+   "recomendacao": "Continuação direta no mesmo dia. É o que a sequência do texto sugere e mantém a tensão do gancho do Ep. 01.",
+   "estado": "pendente"
+  }
+ ]
+}

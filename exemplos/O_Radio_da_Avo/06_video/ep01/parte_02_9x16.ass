@@ -1,0 +1,168 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Leg,Montserrat ExtraBold,66,&H00FFFFFF,&H00FFFFFF,&H00101010,&H96000000,0,0,0,0,100,100,0,0,1,5,2,8,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.20,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}É {\c&H00FFFFFF&}isso {\c&H00FFFFFF&}que {\c&H00FFFFFF&}eu {\c&H00FFFFFF&}estou \N{\c&H00FFFFFF&}tentando {\c&H00FFFFFF&}descobrir
+Dialogue: 0,0:00:00.20,0:00:00.40,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}É {\c&H00FF70A7&}isso {\c&H00FFFFFF&}que {\c&H00FFFFFF&}eu {\c&H00FFFFFF&}estou \N{\c&H00FFFFFF&}tentando {\c&H00FFFFFF&}descobrir
+Dialogue: 0,0:00:00.40,0:00:00.50,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}É {\c&H00FFFFFF&}isso {\c&H00FF70A7&}que {\c&H00FFFFFF&}eu {\c&H00FFFFFF&}estou \N{\c&H00FFFFFF&}tentando {\c&H00FFFFFF&}descobrir
+Dialogue: 0,0:00:00.50,0:00:00.58,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}É {\c&H00FFFFFF&}isso {\c&H00FFFFFF&}que {\c&H00FF70A7&}eu {\c&H00FFFFFF&}estou \N{\c&H00FFFFFF&}tentando {\c&H00FFFFFF&}descobrir
+Dialogue: 0,0:00:00.58,0:00:00.64,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}É {\c&H00FFFFFF&}isso {\c&H00FFFFFF&}que {\c&H00FFFFFF&}eu {\c&H00FF70A7&}estou \N{\c&H00FFFFFF&}tentando {\c&H00FFFFFF&}descobrir
+Dialogue: 0,0:00:00.64,0:00:01.04,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}É {\c&H00FFFFFF&}isso {\c&H00FFFFFF&}que {\c&H00FFFFFF&}eu {\c&H00FFFFFF&}estou \N{\c&H00FF70A7&}tentando {\c&H00FFFFFF&}descobrir
+Dialogue: 0,0:00:01.04,0:00:01.52,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}É {\c&H00FFFFFF&}isso {\c&H00FFFFFF&}que {\c&H00FFFFFF&}eu {\c&H00FFFFFF&}estou \N{\c&H00FFFFFF&}tentando {\c&H00FF70A7&}descobrir
+Dialogue: 0,0:00:01.52,0:00:01.80,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}desde {\c&H00FFFFFF&}ontem.
+Dialogue: 0,0:00:01.80,0:00:02.77,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}desde {\c&H00FF70A7&}ontem.
+Dialogue: 0,0:00:02.86,0:00:03.28,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}Ele {\c&H00FFFFFF&}abriu {\c&H00FFFFFF&}as {\c&H00FFFFFF&}mãos \N{\c&H00FFFFFF&}sobre {\c&H00FFFFFF&}os {\c&H00FFFFFF&}envelopes.
+Dialogue: 0,0:00:03.28,0:00:03.62,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Ele {\c&H00FF70A7&}abriu {\c&H00FFFFFF&}as {\c&H00FFFFFF&}mãos \N{\c&H00FFFFFF&}sobre {\c&H00FFFFFF&}os {\c&H00FFFFFF&}envelopes.
+Dialogue: 0,0:00:03.62,0:00:03.80,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Ele {\c&H00FFFFFF&}abriu {\c&H00FF70A7&}as {\c&H00FFFFFF&}mãos \N{\c&H00FFFFFF&}sobre {\c&H00FFFFFF&}os {\c&H00FFFFFF&}envelopes.
+Dialogue: 0,0:00:03.80,0:00:03.96,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Ele {\c&H00FFFFFF&}abriu {\c&H00FFFFFF&}as {\c&H00FF70A7&}mãos \N{\c&H00FFFFFF&}sobre {\c&H00FFFFFF&}os {\c&H00FFFFFF&}envelopes.
+Dialogue: 0,0:00:03.96,0:00:04.18,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Ele {\c&H00FFFFFF&}abriu {\c&H00FFFFFF&}as {\c&H00FFFFFF&}mãos \N{\c&H00FF70A7&}sobre {\c&H00FFFFFF&}os {\c&H00FFFFFF&}envelopes.
+Dialogue: 0,0:00:04.18,0:00:04.32,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Ele {\c&H00FFFFFF&}abriu {\c&H00FFFFFF&}as {\c&H00FFFFFF&}mãos \N{\c&H00FFFFFF&}sobre {\c&H00FF70A7&}os {\c&H00FFFFFF&}envelopes.
+Dialogue: 0,0:00:04.32,0:00:05.35,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Ele {\c&H00FFFFFF&}abriu {\c&H00FFFFFF&}as {\c&H00FFFFFF&}mãos \N{\c&H00FFFFFF&}sobre {\c&H00FFFFFF&}os {\c&H00FF70A7&}envelopes.
+Dialogue: 0,0:00:05.43,0:00:05.77,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}Contas {\c&H00FFFFFF&}de {\c&H00FFFFFF&}luz, {\c&H00FFFFFF&}de {\c&H00FFFFFF&}água, \N{\c&H00FFFFFF&}um {\c&H00FFFFFF&}carnê {\c&H00FFFFFF&}de {\c&H00FFFFFF&}farmácia.
+Dialogue: 0,0:00:05.77,0:00:05.87,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Contas {\c&H00FF70A7&}de {\c&H00FFFFFF&}luz, {\c&H00FFFFFF&}de {\c&H00FFFFFF&}água, \N{\c&H00FFFFFF&}um {\c&H00FFFFFF&}carnê {\c&H00FFFFFF&}de {\c&H00FFFFFF&}farmácia.
+Dialogue: 0,0:00:05.87,0:00:06.19,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Contas {\c&H00FFFFFF&}de {\c&H00FF70A7&}luz, {\c&H00FFFFFF&}de {\c&H00FFFFFF&}água, \N{\c&H00FFFFFF&}um {\c&H00FFFFFF&}carnê {\c&H00FFFFFF&}de {\c&H00FFFFFF&}farmácia.
+Dialogue: 0,0:00:06.19,0:00:06.27,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Contas {\c&H00FFFFFF&}de {\c&H00FFFFFF&}luz, {\c&H00FF70A7&}de {\c&H00FFFFFF&}água, \N{\c&H00FFFFFF&}um {\c&H00FFFFFF&}carnê {\c&H00FFFFFF&}de {\c&H00FFFFFF&}farmácia.
+Dialogue: 0,0:00:06.27,0:00:06.75,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Contas {\c&H00FFFFFF&}de {\c&H00FFFFFF&}luz, {\c&H00FFFFFF&}de {\c&H00FF70A7&}água, \N{\c&H00FFFFFF&}um {\c&H00FFFFFF&}carnê {\c&H00FFFFFF&}de {\c&H00FFFFFF&}farmácia.
+Dialogue: 0,0:00:06.75,0:00:06.91,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Contas {\c&H00FFFFFF&}de {\c&H00FFFFFF&}luz, {\c&H00FFFFFF&}de {\c&H00FFFFFF&}água, \N{\c&H00FF70A7&}um {\c&H00FFFFFF&}carnê {\c&H00FFFFFF&}de {\c&H00FFFFFF&}farmácia.
+Dialogue: 0,0:00:06.91,0:00:07.15,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Contas {\c&H00FFFFFF&}de {\c&H00FFFFFF&}luz, {\c&H00FFFFFF&}de {\c&H00FFFFFF&}água, \N{\c&H00FFFFFF&}um {\c&H00FF70A7&}carnê {\c&H00FFFFFF&}de {\c&H00FFFFFF&}farmácia.
+Dialogue: 0,0:00:07.15,0:00:07.27,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Contas {\c&H00FFFFFF&}de {\c&H00FFFFFF&}luz, {\c&H00FFFFFF&}de {\c&H00FFFFFF&}água, \N{\c&H00FFFFFF&}um {\c&H00FFFFFF&}carnê {\c&H00FF70A7&}de {\c&H00FFFFFF&}farmácia.
+Dialogue: 0,0:00:07.27,0:00:07.93,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Contas {\c&H00FFFFFF&}de {\c&H00FFFFFF&}luz, {\c&H00FFFFFF&}de {\c&H00FFFFFF&}água, \N{\c&H00FFFFFF&}um {\c&H00FFFFFF&}carnê {\c&H00FFFFFF&}de {\c&H00FF70A7&}farmácia.
+Dialogue: 0,0:00:07.93,0:00:08.09,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}Nada {\c&H00FFFFFF&}de {\c&H00FFFFFF&}viagem, {\c&H00FFFFFF&}nada \N{\c&H00FFFFFF&}de {\c&H00FFFFFF&}reforma.
+Dialogue: 0,0:00:08.09,0:00:08.25,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Nada {\c&H00FF70A7&}de {\c&H00FFFFFF&}viagem, {\c&H00FFFFFF&}nada \N{\c&H00FFFFFF&}de {\c&H00FFFFFF&}reforma.
+Dialogue: 0,0:00:08.25,0:00:08.81,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Nada {\c&H00FFFFFF&}de {\c&H00FF70A7&}viagem, {\c&H00FFFFFF&}nada \N{\c&H00FFFFFF&}de {\c&H00FFFFFF&}reforma.
+Dialogue: 0,0:00:08.81,0:00:08.93,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Nada {\c&H00FFFFFF&}de {\c&H00FFFFFF&}viagem, {\c&H00FF70A7&}nada \N{\c&H00FFFFFF&}de {\c&H00FFFFFF&}reforma.
+Dialogue: 0,0:00:08.93,0:00:09.07,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Nada {\c&H00FFFFFF&}de {\c&H00FFFFFF&}viagem, {\c&H00FFFFFF&}nada \N{\c&H00FF70A7&}de {\c&H00FFFFFF&}reforma.
+Dialogue: 0,0:00:09.07,0:00:09.94,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Nada {\c&H00FFFFFF&}de {\c&H00FFFFFF&}viagem, {\c&H00FFFFFF&}nada \N{\c&H00FFFFFF&}de {\c&H00FF70A7&}reforma.
+Dialogue: 0,0:00:10.23,0:00:10.65,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}Ela {\c&H00FFFFFF&}não {\c&H00FFFFFF&}comprou {\c&H00FFFFFF&}nem \N{\c&H00FFFFFF&}uma {\c&H00FFFFFF&}geladeira {\c&H00FFFFFF&}nova.
+Dialogue: 0,0:00:10.65,0:00:10.79,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Ela {\c&H00FF70A7&}não {\c&H00FFFFFF&}comprou {\c&H00FFFFFF&}nem \N{\c&H00FFFFFF&}uma {\c&H00FFFFFF&}geladeira {\c&H00FFFFFF&}nova.
+Dialogue: 0,0:00:10.79,0:00:11.09,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Ela {\c&H00FFFFFF&}não {\c&H00FF70A7&}comprou {\c&H00FFFFFF&}nem \N{\c&H00FFFFFF&}uma {\c&H00FFFFFF&}geladeira {\c&H00FFFFFF&}nova.
+Dialogue: 0,0:00:11.09,0:00:11.21,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Ela {\c&H00FFFFFF&}não {\c&H00FFFFFF&}comprou {\c&H00FF70A7&}nem \N{\c&H00FFFFFF&}uma {\c&H00FFFFFF&}geladeira {\c&H00FFFFFF&}nova.
+Dialogue: 0,0:00:11.21,0:00:11.33,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Ela {\c&H00FFFFFF&}não {\c&H00FFFFFF&}comprou {\c&H00FFFFFF&}nem \N{\c&H00FF70A7&}uma {\c&H00FFFFFF&}geladeira {\c&H00FFFFFF&}nova.
+Dialogue: 0,0:00:11.33,0:00:11.81,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Ela {\c&H00FFFFFF&}não {\c&H00FFFFFF&}comprou {\c&H00FFFFFF&}nem \N{\c&H00FFFFFF&}uma {\c&H00FF70A7&}geladeira {\c&H00FFFFFF&}nova.
+Dialogue: 0,0:00:11.81,0:00:12.69,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Ela {\c&H00FFFFFF&}não {\c&H00FFFFFF&}comprou {\c&H00FFFFFF&}nem \N{\c&H00FFFFFF&}uma {\c&H00FFFFFF&}geladeira {\c&H00FF70A7&}nova.
+Dialogue: 0,0:00:12.69,0:00:13.05,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}Aquela {\c&H00FFFFFF&}ali {\c&H00FFFFFF&}é {\c&H00FFFFFF&}de {\c&H00FFFFFF&}mil \N{\c&H00FFFFFF&}novecentos {\c&H00FFFFFF&}e {\c&H00FFFFFF&}noventa
+Dialogue: 0,0:00:13.05,0:00:13.21,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Aquela {\c&H00FF70A7&}ali {\c&H00FFFFFF&}é {\c&H00FFFFFF&}de {\c&H00FFFFFF&}mil \N{\c&H00FFFFFF&}novecentos {\c&H00FFFFFF&}e {\c&H00FFFFFF&}noventa
+Dialogue: 0,0:00:13.21,0:00:13.33,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Aquela {\c&H00FFFFFF&}ali {\c&H00FF70A7&}é {\c&H00FFFFFF&}de {\c&H00FFFFFF&}mil \N{\c&H00FFFFFF&}novecentos {\c&H00FFFFFF&}e {\c&H00FFFFFF&}noventa
+Dialogue: 0,0:00:13.33,0:00:13.47,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Aquela {\c&H00FFFFFF&}ali {\c&H00FFFFFF&}é {\c&H00FF70A7&}de {\c&H00FFFFFF&}mil \N{\c&H00FFFFFF&}novecentos {\c&H00FFFFFF&}e {\c&H00FFFFFF&}noventa
+Dialogue: 0,0:00:13.47,0:00:13.69,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Aquela {\c&H00FFFFFF&}ali {\c&H00FFFFFF&}é {\c&H00FFFFFF&}de {\c&H00FF70A7&}mil \N{\c&H00FFFFFF&}novecentos {\c&H00FFFFFF&}e {\c&H00FFFFFF&}noventa
+Dialogue: 0,0:00:13.69,0:00:14.31,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Aquela {\c&H00FFFFFF&}ali {\c&H00FFFFFF&}é {\c&H00FFFFFF&}de {\c&H00FFFFFF&}mil \N{\c&H00FF70A7&}novecentos {\c&H00FFFFFF&}e {\c&H00FFFFFF&}noventa
+Dialogue: 0,0:00:14.31,0:00:14.42,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Aquela {\c&H00FFFFFF&}ali {\c&H00FFFFFF&}é {\c&H00FFFFFF&}de {\c&H00FFFFFF&}mil \N{\c&H00FFFFFF&}novecentos {\c&H00FF70A7&}e {\c&H00FFFFFF&}noventa
+Dialogue: 0,0:00:14.42,0:00:14.87,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Aquela {\c&H00FFFFFF&}ali {\c&H00FFFFFF&}é {\c&H00FFFFFF&}de {\c&H00FFFFFF&}mil \N{\c&H00FFFFFF&}novecentos {\c&H00FFFFFF&}e {\c&H00FF70A7&}noventa
+Dialogue: 0,0:00:14.87,0:00:14.98,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}e {\c&H00FFFFFF&}oito.
+Dialogue: 0,0:00:14.98,0:00:15.57,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}e {\c&H00FF70A7&}oito.
+Dialogue: 0,0:00:15.92,0:00:16.10,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}A {\c&H00FFFFFF&}geladeira {\c&H00FFFFFF&}fez {\c&H00FFFFFF&}um \N{\c&H00FFFFFF&}barulho {\c&H00FFFFFF&}de {\c&H00FFFFFF&}motor {\c&H00FFFFFF&}velho,
+Dialogue: 0,0:00:16.10,0:00:16.98,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}A {\c&H00FF70A7&}geladeira {\c&H00FFFFFF&}fez {\c&H00FFFFFF&}um \N{\c&H00FFFFFF&}barulho {\c&H00FFFFFF&}de {\c&H00FFFFFF&}motor {\c&H00FFFFFF&}velho,
+Dialogue: 0,0:00:16.98,0:00:17.78,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}A {\c&H00FFFFFF&}geladeira {\c&H00FF70A7&}fez {\c&H00FFFFFF&}um \N{\c&H00FFFFFF&}barulho {\c&H00FFFFFF&}de {\c&H00FFFFFF&}motor {\c&H00FFFFFF&}velho,
+Dialogue: 0,0:00:17.78,0:00:17.92,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}A {\c&H00FFFFFF&}geladeira {\c&H00FFFFFF&}fez {\c&H00FF70A7&}um \N{\c&H00FFFFFF&}barulho {\c&H00FFFFFF&}de {\c&H00FFFFFF&}motor {\c&H00FFFFFF&}velho,
+Dialogue: 0,0:00:17.92,0:00:18.32,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}A {\c&H00FFFFFF&}geladeira {\c&H00FFFFFF&}fez {\c&H00FFFFFF&}um \N{\c&H00FF70A7&}barulho {\c&H00FFFFFF&}de {\c&H00FFFFFF&}motor {\c&H00FFFFFF&}velho,
+Dialogue: 0,0:00:18.32,0:00:18.46,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}A {\c&H00FFFFFF&}geladeira {\c&H00FFFFFF&}fez {\c&H00FFFFFF&}um \N{\c&H00FFFFFF&}barulho {\c&H00FF70A7&}de {\c&H00FFFFFF&}motor {\c&H00FFFFFF&}velho,
+Dialogue: 0,0:00:18.46,0:00:18.76,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}A {\c&H00FFFFFF&}geladeira {\c&H00FFFFFF&}fez {\c&H00FFFFFF&}um \N{\c&H00FFFFFF&}barulho {\c&H00FFFFFF&}de {\c&H00FF70A7&}motor {\c&H00FFFFFF&}velho,
+Dialogue: 0,0:00:18.76,0:00:19.40,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}A {\c&H00FFFFFF&}geladeira {\c&H00FFFFFF&}fez {\c&H00FFFFFF&}um \N{\c&H00FFFFFF&}barulho {\c&H00FFFFFF&}de {\c&H00FFFFFF&}motor {\c&H00FF70A7&}velho,
+Dialogue: 0,0:00:19.40,0:00:19.82,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}como {\c&H00FFFFFF&}se {\c&H00FFFFFF&}concordasse.
+Dialogue: 0,0:00:19.82,0:00:19.98,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}como {\c&H00FF70A7&}se {\c&H00FFFFFF&}concordasse.
+Dialogue: 0,0:00:19.98,0:00:21.21,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}como {\c&H00FFFFFF&}se {\c&H00FF70A7&}concordasse.
+Dialogue: 0,0:00:21.69,0:00:21.83,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}Eu {\c&H00FFFFFF&}me {\c&H00FFFFFF&}sentei {\c&H00FFFFFF&}na \N{\c&H00FFFFFF&}frente {\c&H00FFFFFF&}dele.
+Dialogue: 0,0:00:21.83,0:00:21.93,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Eu {\c&H00FF70A7&}me {\c&H00FFFFFF&}sentei {\c&H00FFFFFF&}na \N{\c&H00FFFFFF&}frente {\c&H00FFFFFF&}dele.
+Dialogue: 0,0:00:21.93,0:00:22.33,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Eu {\c&H00FFFFFF&}me {\c&H00FF70A7&}sentei {\c&H00FFFFFF&}na \N{\c&H00FFFFFF&}frente {\c&H00FFFFFF&}dele.
+Dialogue: 0,0:00:22.33,0:00:22.43,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Eu {\c&H00FFFFFF&}me {\c&H00FFFFFF&}sentei {\c&H00FF70A7&}na \N{\c&H00FFFFFF&}frente {\c&H00FFFFFF&}dele.
+Dialogue: 0,0:00:22.43,0:00:22.73,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Eu {\c&H00FFFFFF&}me {\c&H00FFFFFF&}sentei {\c&H00FFFFFF&}na \N{\c&H00FF70A7&}frente {\c&H00FFFFFF&}dele.
+Dialogue: 0,0:00:22.73,0:00:23.68,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Eu {\c&H00FFFFFF&}me {\c&H00FFFFFF&}sentei {\c&H00FFFFFF&}na \N{\c&H00FFFFFF&}frente {\c&H00FF70A7&}dele.
+Dialogue: 0,0:00:24.01,0:00:24.21,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}A {\c&H00FFFFFF&}cadeira {\c&H00FFFFFF&}rangeu {\c&H00FFFFFF&}do \N{\c&H00FFFFFF&}mesmo {\c&H00FFFFFF&}jeito {\c&H00FFFFFF&}que
+Dialogue: 0,0:00:24.21,0:00:24.71,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}A {\c&H00FF70A7&}cadeira {\c&H00FFFFFF&}rangeu {\c&H00FFFFFF&}do \N{\c&H00FFFFFF&}mesmo {\c&H00FFFFFF&}jeito {\c&H00FFFFFF&}que
+Dialogue: 0,0:00:24.71,0:00:25.13,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}A {\c&H00FFFFFF&}cadeira {\c&H00FF70A7&}rangeu {\c&H00FFFFFF&}do \N{\c&H00FFFFFF&}mesmo {\c&H00FFFFFF&}jeito {\c&H00FFFFFF&}que
+Dialogue: 0,0:00:25.13,0:00:25.25,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}A {\c&H00FFFFFF&}cadeira {\c&H00FFFFFF&}rangeu {\c&H00FF70A7&}do \N{\c&H00FFFFFF&}mesmo {\c&H00FFFFFF&}jeito {\c&H00FFFFFF&}que
+Dialogue: 0,0:00:25.25,0:00:25.51,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}A {\c&H00FFFFFF&}cadeira {\c&H00FFFFFF&}rangeu {\c&H00FFFFFF&}do \N{\c&H00FF70A7&}mesmo {\c&H00FFFFFF&}jeito {\c&H00FFFFFF&}que
+Dialogue: 0,0:00:25.51,0:00:25.87,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}A {\c&H00FFFFFF&}cadeira {\c&H00FFFFFF&}rangeu {\c&H00FFFFFF&}do \N{\c&H00FFFFFF&}mesmo {\c&H00FF70A7&}jeito {\c&H00FFFFFF&}que
+Dialogue: 0,0:00:25.87,0:00:26.05,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}A {\c&H00FFFFFF&}cadeira {\c&H00FFFFFF&}rangeu {\c&H00FFFFFF&}do \N{\c&H00FFFFFF&}mesmo {\c&H00FFFFFF&}jeito {\c&H00FF70A7&}que
+Dialogue: 0,0:00:26.05,0:00:26.45,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}rangia {\c&H00FFFFFF&}quando {\c&H00FFFFFF&}eu \N{\c&H00FFFFFF&}tinha {\c&H00FFFFFF&}oito {\c&H00FFFFFF&}anos {\c&H00FFFFFF&}e
+Dialogue: 0,0:00:26.45,0:00:26.65,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}rangia {\c&H00FF70A7&}quando {\c&H00FFFFFF&}eu \N{\c&H00FFFFFF&}tinha {\c&H00FFFFFF&}oito {\c&H00FFFFFF&}anos {\c&H00FFFFFF&}e
+Dialogue: 0,0:00:26.65,0:00:26.77,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}rangia {\c&H00FFFFFF&}quando {\c&H00FF70A7&}eu \N{\c&H00FFFFFF&}tinha {\c&H00FFFFFF&}oito {\c&H00FFFFFF&}anos {\c&H00FFFFFF&}e
+Dialogue: 0,0:00:26.77,0:00:26.91,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}rangia {\c&H00FFFFFF&}quando {\c&H00FFFFFF&}eu \N{\c&H00FF70A7&}tinha {\c&H00FFFFFF&}oito {\c&H00FFFFFF&}anos {\c&H00FFFFFF&}e
+Dialogue: 0,0:00:26.91,0:00:27.23,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}rangia {\c&H00FFFFFF&}quando {\c&H00FFFFFF&}eu \N{\c&H00FFFFFF&}tinha {\c&H00FF70A7&}oito {\c&H00FFFFFF&}anos {\c&H00FFFFFF&}e
+Dialogue: 0,0:00:27.23,0:00:27.53,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}rangia {\c&H00FFFFFF&}quando {\c&H00FFFFFF&}eu \N{\c&H00FFFFFF&}tinha {\c&H00FFFFFF&}oito {\c&H00FF70A7&}anos {\c&H00FFFFFF&}e
+Dialogue: 0,0:00:27.53,0:00:27.67,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}rangia {\c&H00FFFFFF&}quando {\c&H00FFFFFF&}eu \N{\c&H00FFFFFF&}tinha {\c&H00FFFFFF&}oito {\c&H00FFFFFF&}anos {\c&H00FF70A7&}e
+Dialogue: 0,0:00:27.67,0:00:27.93,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}fazia {\c&H00FFFFFF&}o {\c&H00FFFFFF&}dever {\c&H00FFFFFF&}de {\c&H00FFFFFF&}casa {\c&H00FFFFFF&}ali, \N{\c&H00FFFFFF&}enquanto {\c&H00FFFFFF&}ela {\c&H00FFFFFF&}ouvia {\c&H00FFFFFF&}o
+Dialogue: 0,0:00:27.93,0:00:28.01,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}fazia {\c&H00FF70A7&}o {\c&H00FFFFFF&}dever {\c&H00FFFFFF&}de {\c&H00FFFFFF&}casa {\c&H00FFFFFF&}ali, \N{\c&H00FFFFFF&}enquanto {\c&H00FFFFFF&}ela {\c&H00FFFFFF&}ouvia {\c&H00FFFFFF&}o
+Dialogue: 0,0:00:28.01,0:00:28.25,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}fazia {\c&H00FFFFFF&}o {\c&H00FF70A7&}dever {\c&H00FFFFFF&}de {\c&H00FFFFFF&}casa {\c&H00FFFFFF&}ali, \N{\c&H00FFFFFF&}enquanto {\c&H00FFFFFF&}ela {\c&H00FFFFFF&}ouvia {\c&H00FFFFFF&}o
+Dialogue: 0,0:00:28.25,0:00:28.45,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}fazia {\c&H00FFFFFF&}o {\c&H00FFFFFF&}dever {\c&H00FF70A7&}de {\c&H00FFFFFF&}casa {\c&H00FFFFFF&}ali, \N{\c&H00FFFFFF&}enquanto {\c&H00FFFFFF&}ela {\c&H00FFFFFF&}ouvia {\c&H00FFFFFF&}o
+Dialogue: 0,0:00:28.45,0:00:28.79,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}fazia {\c&H00FFFFFF&}o {\c&H00FFFFFF&}dever {\c&H00FFFFFF&}de {\c&H00FF70A7&}casa {\c&H00FFFFFF&}ali, \N{\c&H00FFFFFF&}enquanto {\c&H00FFFFFF&}ela {\c&H00FFFFFF&}ouvia {\c&H00FFFFFF&}o
+Dialogue: 0,0:00:28.79,0:00:30.01,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}fazia {\c&H00FFFFFF&}o {\c&H00FFFFFF&}dever {\c&H00FFFFFF&}de {\c&H00FFFFFF&}casa {\c&H00FF70A7&}ali, \N{\c&H00FFFFFF&}enquanto {\c&H00FFFFFF&}ela {\c&H00FFFFFF&}ouvia {\c&H00FFFFFF&}o
+Dialogue: 0,0:00:30.01,0:00:30.37,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}fazia {\c&H00FFFFFF&}o {\c&H00FFFFFF&}dever {\c&H00FFFFFF&}de {\c&H00FFFFFF&}casa {\c&H00FFFFFF&}ali, \N{\c&H00FF70A7&}enquanto {\c&H00FFFFFF&}ela {\c&H00FFFFFF&}ouvia {\c&H00FFFFFF&}o
+Dialogue: 0,0:00:30.37,0:00:30.53,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}fazia {\c&H00FFFFFF&}o {\c&H00FFFFFF&}dever {\c&H00FFFFFF&}de {\c&H00FFFFFF&}casa {\c&H00FFFFFF&}ali, \N{\c&H00FFFFFF&}enquanto {\c&H00FF70A7&}ela {\c&H00FFFFFF&}ouvia {\c&H00FFFFFF&}o
+Dialogue: 0,0:00:30.53,0:00:30.79,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}fazia {\c&H00FFFFFF&}o {\c&H00FFFFFF&}dever {\c&H00FFFFFF&}de {\c&H00FFFFFF&}casa {\c&H00FFFFFF&}ali, \N{\c&H00FFFFFF&}enquanto {\c&H00FFFFFF&}ela {\c&H00FF70A7&}ouvia {\c&H00FFFFFF&}o
+Dialogue: 0,0:00:30.79,0:00:30.89,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}fazia {\c&H00FFFFFF&}o {\c&H00FFFFFF&}dever {\c&H00FFFFFF&}de {\c&H00FFFFFF&}casa {\c&H00FFFFFF&}ali, \N{\c&H00FFFFFF&}enquanto {\c&H00FFFFFF&}ela {\c&H00FFFFFF&}ouvia {\c&H00FF70A7&}o
+Dialogue: 0,0:00:30.89,0:00:31.21,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}rádio {\c&H00FFFFFF&}e {\c&H00FFFFFF&}cantava {\c&H00FFFFFF&}junto, \N{\c&H00FFFFFF&}desafinada, {\c&H00FFFFFF&}as
+Dialogue: 0,0:00:31.21,0:00:31.35,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}rádio {\c&H00FF70A7&}e {\c&H00FFFFFF&}cantava {\c&H00FFFFFF&}junto, \N{\c&H00FFFFFF&}desafinada, {\c&H00FFFFFF&}as
+Dialogue: 0,0:00:31.35,0:00:31.75,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}rádio {\c&H00FFFFFF&}e {\c&H00FF70A7&}cantava {\c&H00FFFFFF&}junto, \N{\c&H00FFFFFF&}desafinada, {\c&H00FFFFFF&}as
+Dialogue: 0,0:00:31.75,0:00:32.55,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}rádio {\c&H00FFFFFF&}e {\c&H00FFFFFF&}cantava {\c&H00FF70A7&}junto, \N{\c&H00FFFFFF&}desafinada, {\c&H00FFFFFF&}as
+Dialogue: 0,0:00:32.55,0:00:34.05,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}rádio {\c&H00FFFFFF&}e {\c&H00FFFFFF&}cantava {\c&H00FFFFFF&}junto, \N{\c&H00FF70A7&}desafinada, {\c&H00FFFFFF&}as
+Dialogue: 0,0:00:34.05,0:00:34.29,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}rádio {\c&H00FFFFFF&}e {\c&H00FFFFFF&}cantava {\c&H00FFFFFF&}junto, \N{\c&H00FFFFFF&}desafinada, {\c&H00FF70A7&}as
+Dialogue: 0,0:00:34.29,0:00:34.83,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}músicas {\c&H00FFFFFF&}que {\c&H00FFFFFF&}tocavam \N{\c&H00FFFFFF&}depois {\c&H00FFFFFF&}das {\c&H00FFFFFF&}dez {\c&H00FFFFFF&}da {\c&H00FFFFFF&}noite.
+Dialogue: 0,0:00:34.83,0:00:35.01,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}músicas {\c&H00FF70A7&}que {\c&H00FFFFFF&}tocavam \N{\c&H00FFFFFF&}depois {\c&H00FFFFFF&}das {\c&H00FFFFFF&}dez {\c&H00FFFFFF&}da {\c&H00FFFFFF&}noite.
+Dialogue: 0,0:00:35.01,0:00:35.51,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}músicas {\c&H00FFFFFF&}que {\c&H00FF70A7&}tocavam \N{\c&H00FFFFFF&}depois {\c&H00FFFFFF&}das {\c&H00FFFFFF&}dez {\c&H00FFFFFF&}da {\c&H00FFFFFF&}noite.
+Dialogue: 0,0:00:35.51,0:00:35.87,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}músicas {\c&H00FFFFFF&}que {\c&H00FFFFFF&}tocavam \N{\c&H00FF70A7&}depois {\c&H00FFFFFF&}das {\c&H00FFFFFF&}dez {\c&H00FFFFFF&}da {\c&H00FFFFFF&}noite.
+Dialogue: 0,0:00:35.87,0:00:36.13,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}músicas {\c&H00FFFFFF&}que {\c&H00FFFFFF&}tocavam \N{\c&H00FFFFFF&}depois {\c&H00FF70A7&}das {\c&H00FFFFFF&}dez {\c&H00FFFFFF&}da {\c&H00FFFFFF&}noite.
+Dialogue: 0,0:00:36.13,0:00:36.35,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}músicas {\c&H00FFFFFF&}que {\c&H00FFFFFF&}tocavam \N{\c&H00FFFFFF&}depois {\c&H00FFFFFF&}das {\c&H00FF70A7&}dez {\c&H00FFFFFF&}da {\c&H00FFFFFF&}noite.
+Dialogue: 0,0:00:36.35,0:00:36.53,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}músicas {\c&H00FFFFFF&}que {\c&H00FFFFFF&}tocavam \N{\c&H00FFFFFF&}depois {\c&H00FFFFFF&}das {\c&H00FFFFFF&}dez {\c&H00FF70A7&}da {\c&H00FFFFFF&}noite.
+Dialogue: 0,0:00:36.53,0:00:37.40,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}músicas {\c&H00FFFFFF&}que {\c&H00FFFFFF&}tocavam \N{\c&H00FFFFFF&}depois {\c&H00FFFFFF&}das {\c&H00FFFFFF&}dez {\c&H00FFFFFF&}da {\c&H00FF70A7&}noite.
+Dialogue: 0,0:00:38.17,0:00:38.35,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}O {\c&H00FFFFFF&}rádio.
+Dialogue: 0,0:00:38.35,0:00:39.30,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}O {\c&H00FF70A7&}rádio.
+Dialogue: 0,0:00:39.40,0:00:39.58,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}eu {\c&H00FFFFFF&}disse.
+Dialogue: 0,0:00:39.58,0:00:40.39,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}eu {\c&H00FF70A7&}disse.
+Dialogue: 0,0:00:40.66,0:00:40.80,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}Que {\c&H00FFFFFF&}rádio?
+Dialogue: 0,0:00:40.80,0:00:41.67,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Que {\c&H00FF70A7&}rádio?
+Dialogue: 0,0:00:42.38,0:00:42.56,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}O {\c&H00FFFFFF&}dela. {\c&H00FFFFFF&}Aquele {\c&H00FFFFFF&}de {\c&H00FFFFFF&}madeira, \N{\c&H00FFFFFF&}com {\c&H00FFFFFF&}os {\c&H00FFFFFF&}botões {\c&H00FFFFFF&}dourados.
+Dialogue: 0,0:00:42.56,0:00:43.24,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}O {\c&H00FF70A7&}dela. {\c&H00FFFFFF&}Aquele {\c&H00FFFFFF&}de {\c&H00FFFFFF&}madeira, \N{\c&H00FFFFFF&}com {\c&H00FFFFFF&}os {\c&H00FFFFFF&}botões {\c&H00FFFFFF&}dourados.
+Dialogue: 0,0:00:43.24,0:00:43.68,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}O {\c&H00FFFFFF&}dela. {\c&H00FF70A7&}Aquele {\c&H00FFFFFF&}de {\c&H00FFFFFF&}madeira, \N{\c&H00FFFFFF&}com {\c&H00FFFFFF&}os {\c&H00FFFFFF&}botões {\c&H00FFFFFF&}dourados.
+Dialogue: 0,0:00:43.68,0:00:43.86,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}O {\c&H00FFFFFF&}dela. {\c&H00FFFFFF&}Aquele {\c&H00FF70A7&}de {\c&H00FFFFFF&}madeira, \N{\c&H00FFFFFF&}com {\c&H00FFFFFF&}os {\c&H00FFFFFF&}botões {\c&H00FFFFFF&}dourados.
+Dialogue: 0,0:00:43.86,0:00:44.42,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}O {\c&H00FFFFFF&}dela. {\c&H00FFFFFF&}Aquele {\c&H00FFFFFF&}de {\c&H00FF70A7&}madeira, \N{\c&H00FFFFFF&}com {\c&H00FFFFFF&}os {\c&H00FFFFFF&}botões {\c&H00FFFFFF&}dourados.
+Dialogue: 0,0:00:44.42,0:00:44.62,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}O {\c&H00FFFFFF&}dela. {\c&H00FFFFFF&}Aquele {\c&H00FFFFFF&}de {\c&H00FFFFFF&}madeira, \N{\c&H00FF70A7&}com {\c&H00FFFFFF&}os {\c&H00FFFFFF&}botões {\c&H00FFFFFF&}dourados.
+Dialogue: 0,0:00:44.62,0:00:44.74,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}O {\c&H00FFFFFF&}dela. {\c&H00FFFFFF&}Aquele {\c&H00FFFFFF&}de {\c&H00FFFFFF&}madeira, \N{\c&H00FFFFFF&}com {\c&H00FF70A7&}os {\c&H00FFFFFF&}botões {\c&H00FFFFFF&}dourados.
+Dialogue: 0,0:00:44.74,0:00:45.06,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}O {\c&H00FFFFFF&}dela. {\c&H00FFFFFF&}Aquele {\c&H00FFFFFF&}de {\c&H00FFFFFF&}madeira, \N{\c&H00FFFFFF&}com {\c&H00FFFFFF&}os {\c&H00FF70A7&}botões {\c&H00FFFFFF&}dourados.
+Dialogue: 0,0:00:45.06,0:00:46.15,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}O {\c&H00FFFFFF&}dela. {\c&H00FFFFFF&}Aquele {\c&H00FFFFFF&}de {\c&H00FFFFFF&}madeira, \N{\c&H00FFFFFF&}com {\c&H00FFFFFF&}os {\c&H00FFFFFF&}botões {\c&H00FF70A7&}dourados.
+Dialogue: 0,0:00:46.24,0:00:46.46,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}Ela {\c&H00FFFFFF&}ouvia {\c&H00FFFFFF&}todo {\c&H00FFFFFF&}dia.
+Dialogue: 0,0:00:46.46,0:00:46.76,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Ela {\c&H00FF70A7&}ouvia {\c&H00FFFFFF&}todo {\c&H00FFFFFF&}dia.
+Dialogue: 0,0:00:46.76,0:00:47.06,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Ela {\c&H00FFFFFF&}ouvia {\c&H00FF70A7&}todo {\c&H00FFFFFF&}dia.
+Dialogue: 0,0:00:47.06,0:00:47.99,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Ela {\c&H00FFFFFF&}ouvia {\c&H00FFFFFF&}todo {\c&H00FF70A7&}dia.
+Dialogue: 0,0:00:48.15,0:00:48.96,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}Cadê?
+Dialogue: 0,0:00:49.64,0:00:50.00,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}Tomás {\c&H00FFFFFF&}olhou {\c&H00FFFFFF&}para {\c&H00FFFFFF&}a \N{\c&H00FFFFFF&}prateleira {\c&H00FFFFFF&}em {\c&H00FFFFFF&}cima {\c&H00FFFFFF&}da
+Dialogue: 0,0:00:50.00,0:00:50.32,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Tomás {\c&H00FF70A7&}olhou {\c&H00FFFFFF&}para {\c&H00FFFFFF&}a \N{\c&H00FFFFFF&}prateleira {\c&H00FFFFFF&}em {\c&H00FFFFFF&}cima {\c&H00FFFFFF&}da
+Dialogue: 0,0:00:50.32,0:00:50.50,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Tomás {\c&H00FFFFFF&}olhou {\c&H00FF70A7&}para {\c&H00FFFFFF&}a \N{\c&H00FFFFFF&}prateleira {\c&H00FFFFFF&}em {\c&H00FFFFFF&}cima {\c&H00FFFFFF&}da
+Dialogue: 0,0:00:50.50,0:00:50.60,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Tomás {\c&H00FFFFFF&}olhou {\c&H00FFFFFF&}para {\c&H00FF70A7&}a \N{\c&H00FFFFFF&}prateleira {\c&H00FFFFFF&}em {\c&H00FFFFFF&}cima {\c&H00FFFFFF&}da
+Dialogue: 0,0:00:50.60,0:00:51.06,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Tomás {\c&H00FFFFFF&}olhou {\c&H00FFFFFF&}para {\c&H00FFFFFF&}a \N{\c&H00FF70A7&}prateleira {\c&H00FFFFFF&}em {\c&H00FFFFFF&}cima {\c&H00FFFFFF&}da
+Dialogue: 0,0:00:51.06,0:00:51.20,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Tomás {\c&H00FFFFFF&}olhou {\c&H00FFFFFF&}para {\c&H00FFFFFF&}a \N{\c&H00FFFFFF&}prateleira {\c&H00FF70A7&}em {\c&H00FFFFFF&}cima {\c&H00FFFFFF&}da
+Dialogue: 0,0:00:51.20,0:00:51.44,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Tomás {\c&H00FFFFFF&}olhou {\c&H00FFFFFF&}para {\c&H00FFFFFF&}a \N{\c&H00FFFFFF&}prateleira {\c&H00FFFFFF&}em {\c&H00FF70A7&}cima {\c&H00FFFFFF&}da
+Dialogue: 0,0:00:51.44,0:00:51.58,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Tomás {\c&H00FFFFFF&}olhou {\c&H00FFFFFF&}para {\c&H00FFFFFF&}a \N{\c&H00FFFFFF&}prateleira {\c&H00FFFFFF&}em {\c&H00FFFFFF&}cima {\c&H00FF70A7&}da
+Dialogue: 0,0:00:51.58,0:00:53.24,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}geladeira. {\c&H00FFFFFF&}Estava {\c&H00FFFFFF&}vazia.
+Dialogue: 0,0:00:53.24,0:00:53.60,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}geladeira. {\c&H00FF70A7&}Estava {\c&H00FFFFFF&}vazia.
+Dialogue: 0,0:00:53.60,0:00:54.65,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}geladeira. {\c&H00FFFFFF&}Estava {\c&H00FF70A7&}vazia.
+Dialogue: 0,0:00:55.02,0:00:55.22,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}Só {\c&H00FFFFFF&}um {\c&H00FFFFFF&}retângulo {\c&H00FFFFFF&}mais \N{\c&H00FFFFFF&}claro {\c&H00FFFFFF&}na {\c&H00FFFFFF&}parede, {\c&H00FFFFFF&}onde
+Dialogue: 0,0:00:55.22,0:00:55.30,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Só {\c&H00FF70A7&}um {\c&H00FFFFFF&}retângulo {\c&H00FFFFFF&}mais \N{\c&H00FFFFFF&}claro {\c&H00FFFFFF&}na {\c&H00FFFFFF&}parede, {\c&H00FFFFFF&}onde
+Dialogue: 0,0:00:55.30,0:00:55.70,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Só {\c&H00FFFFFF&}um {\c&H00FF70A7&}retângulo {\c&H00FFFFFF&}mais \N{\c&H00FFFFFF&}claro {\c&H00FFFFFF&}na {\c&H00FFFFFF&}parede, {\c&H00FFFFFF&}onde
+Dialogue: 0,0:00:55.70,0:00:55.91,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Só {\c&H00FFFFFF&}um {\c&H00FFFFFF&}retângulo {\c&H00FF70A7&}mais \N{\c&H00FFFFFF&}claro {\c&H00FFFFFF&}na {\c&H00FFFFFF&}parede, {\c&H00FFFFFF&}onde
+Dialogue: 0,0:00:55.91,0:00:56.17,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Só {\c&H00FFFFFF&}um {\c&H00FFFFFF&}retângulo {\c&H00FFFFFF&}mais \N{\c&H00FF70A7&}claro {\c&H00FFFFFF&}na {\c&H00FFFFFF&}parede, {\c&H00FFFFFF&}onde
+Dialogue: 0,0:00:56.17,0:00:56.34,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Só {\c&H00FFFFFF&}um {\c&H00FFFFFF&}retângulo {\c&H00FFFFFF&}mais \N{\c&H00FFFFFF&}claro {\c&H00FF70A7&}na {\c&H00FFFFFF&}parede, {\c&H00FFFFFF&}onde
+Dialogue: 0,0:00:56.34,0:00:56.98,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Só {\c&H00FFFFFF&}um {\c&H00FFFFFF&}retângulo {\c&H00FFFFFF&}mais \N{\c&H00FFFFFF&}claro {\c&H00FFFFFF&}na {\c&H00FF70A7&}parede, {\c&H00FFFFFF&}onde
+Dialogue: 0,0:00:56.98,0:00:57.20,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Só {\c&H00FFFFFF&}um {\c&H00FFFFFF&}retângulo {\c&H00FFFFFF&}mais \N{\c&H00FFFFFF&}claro {\c&H00FFFFFF&}na {\c&H00FFFFFF&}parede, {\c&H00FF70A7&}onde
+Dialogue: 0,0:00:57.20,0:00:57.35,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}a {\c&H00FFFFFF&}tinta {\c&H00FFFFFF&}não {\c&H00FFFFFF&}tinha {\c&H00FFFFFF&}desbotado.
+Dialogue: 0,0:00:57.35,0:00:57.66,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}a {\c&H00FF70A7&}tinta {\c&H00FFFFFF&}não {\c&H00FFFFFF&}tinha {\c&H00FFFFFF&}desbotado.
+Dialogue: 0,0:00:57.66,0:00:57.84,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}a {\c&H00FFFFFF&}tinta {\c&H00FF70A7&}não {\c&H00FFFFFF&}tinha {\c&H00FFFFFF&}desbotado.
+Dialogue: 0,0:00:57.84,0:00:58.13,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}a {\c&H00FFFFFF&}tinta {\c&H00FFFFFF&}não {\c&H00FF70A7&}tinha {\c&H00FFFFFF&}desbotado.
+Dialogue: 0,0:00:58.13,0:00:59.16,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}a {\c&H00FFFFFF&}tinta {\c&H00FFFFFF&}não {\c&H00FFFFFF&}tinha {\c&H00FF70A7&}desbotado.
+Dialogue: 0,0:00:59.98,0:01:00.18,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FF70A7&}Não {\c&H00FFFFFF&}sei. {\c&H00FFFFFF&}Não {\c&H00FFFFFF&}estava \N{\c&H00FFFFFF&}aqui {\c&H00FFFFFF&}quando {\c&H00FFFFFF&}eu {\c&H00FFFFFF&}cheguei.
+Dialogue: 0,0:01:00.18,0:01:00.94,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Não {\c&H00FF70A7&}sei. {\c&H00FFFFFF&}Não {\c&H00FFFFFF&}estava \N{\c&H00FFFFFF&}aqui {\c&H00FFFFFF&}quando {\c&H00FFFFFF&}eu {\c&H00FFFFFF&}cheguei.
+Dialogue: 0,0:01:00.94,0:01:01.28,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Não {\c&H00FFFFFF&}sei. {\c&H00FF70A7&}Não {\c&H00FFFFFF&}estava \N{\c&H00FFFFFF&}aqui {\c&H00FFFFFF&}quando {\c&H00FFFFFF&}eu {\c&H00FFFFFF&}cheguei.
+Dialogue: 0,0:01:01.28,0:01:01.52,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Não {\c&H00FFFFFF&}sei. {\c&H00FFFFFF&}Não {\c&H00FF70A7&}estava \N{\c&H00FFFFFF&}aqui {\c&H00FFFFFF&}quando {\c&H00FFFFFF&}eu {\c&H00FFFFFF&}cheguei.
+Dialogue: 0,0:01:01.52,0:01:01.72,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Não {\c&H00FFFFFF&}sei. {\c&H00FFFFFF&}Não {\c&H00FFFFFF&}estava \N{\c&H00FF70A7&}aqui {\c&H00FFFFFF&}quando {\c&H00FFFFFF&}eu {\c&H00FFFFFF&}cheguei.
+Dialogue: 0,0:01:01.72,0:01:01.92,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Não {\c&H00FFFFFF&}sei. {\c&H00FFFFFF&}Não {\c&H00FFFFFF&}estava \N{\c&H00FFFFFF&}aqui {\c&H00FF70A7&}quando {\c&H00FFFFFF&}eu {\c&H00FFFFFF&}cheguei.
+Dialogue: 0,0:01:01.92,0:01:02.02,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Não {\c&H00FFFFFF&}sei. {\c&H00FFFFFF&}Não {\c&H00FFFFFF&}estava \N{\c&H00FFFFFF&}aqui {\c&H00FFFFFF&}quando {\c&H00FF70A7&}eu {\c&H00FFFFFF&}cheguei.
+Dialogue: 0,0:01:02.02,0:01:02.85,Leg,,0,0,0,,{\an8\pos(540,1270)\q2}{\c&H00FFFFFF&}Não {\c&H00FFFFFF&}sei. {\c&H00FFFFFF&}Não {\c&H00FFFFFF&}estava \N{\c&H00FFFFFF&}aqui {\c&H00FFFFFF&}quando {\c&H00FFFFFF&}eu {\c&H00FF70A7&}cheguei.

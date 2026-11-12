@@ -1,0 +1,3 @@
+{"type":"object","properties":{
+ "episodios":{"type":"array","items":{"type":"object","properties":{"n":{"type":"integer"},"titulo":{"type":"string"},"inicio":{"type":"integer"},"fim":{"type":"integer"},"resumo":{"type":"string"},"temporada":{"type":"integer"}},"required":["n","titulo","inicio","fim","resumo"]}},
+ "observacoes":{"type":"array","items":{"type":"string"}}},"required":["episodios","observacoes"]}

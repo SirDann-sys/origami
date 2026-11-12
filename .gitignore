@@ -1,0 +1,29 @@
+# configuração local (caminhos e portas da máquina)
+config.json
+
+# dados, obras e ambientes pesados ficam fora do repositório
+/obras/
+/dados/
+/ambientes/
+/comfyui/
+/modelos/
+/vozes/
+/ouvir/
+/ffmpeg/
+/voicestudio/
+/_arquivo/
+app/node_modules/
+ferramentas/musica/sons/
+ferramentas/musica/ferramentas/
+ferramentas/voz/vendor/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# sistema
+Thumbs.db
+desktop.ini
+.DS_Store

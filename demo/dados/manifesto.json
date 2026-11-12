@@ -1,0 +1,152 @@
+{
+ "rotas": {
+  "/api/ambiente": {
+   "f": "000.json",
+   "s": 200
+  },
+  "/api/obras": {
+   "f": "001.json",
+   "s": 200
+  },
+  "/api/arquivos": {
+   "f": "002.json",
+   "s": 200
+  },
+  "/api/postagem/conexao": {
+   "f": "003.json",
+   "s": 200
+  },
+  "/estado": {
+   "f": "004.json",
+   "s": 200
+  },
+  "/api/obra?obra=O_Radio_da_Avo": {
+   "f": "005.json",
+   "s": 200
+  },
+  "/api/custo?obra=O_Radio_da_Avo": {
+   "f": "006.json",
+   "s": 200
+  },
+  "/api/fila?obra=O_Radio_da_Avo": {
+   "f": "007.json",
+   "s": 200
+  },
+  "/api/elenco?obra=O_Radio_da_Avo": {
+   "f": "008.json",
+   "s": 200
+  },
+  "/api/postagem?obra=O_Radio_da_Avo": {
+   "f": "009.json",
+   "s": 200
+  },
+  "/api/pronuncia?obra=O_Radio_da_Avo": {
+   "f": "010.json",
+   "s": 200
+  },
+  "/api/ajustes/guia?obra=O_Radio_da_Avo": {
+   "f": "011.json",
+   "s": 200
+  },
+  "/api/mesa?ep=01&obra=O_Radio_da_Avo": {
+   "f": "012.json",
+   "s": 200
+  },
+  "/api/pendencias?ep=01&obra=O_Radio_da_Avo": {
+   "f": "013.json",
+   "s": 200
+  },
+  "/api/texto?ep=01&obra=O_Radio_da_Avo": {
+   "f": "014.json",
+   "s": 200
+  },
+  "/api/arte?ep=01&obra=O_Radio_da_Avo": {
+   "f": "015.json",
+   "s": 200
+  },
+  "/api/imagens?ep=01&obra=O_Radio_da_Avo": {
+   "f": "016.json",
+   "s": 200
+  },
+  "/api/publicacao?ep=01&obra=O_Radio_da_Avo": {
+   "f": "017.json",
+   "s": 200
+  },
+  "/api/ajustes/trilha?ep=01&obra=O_Radio_da_Avo": {
+   "f": "018.json",
+   "s": 200
+  },
+  "/api/revisao?ep=01&obra=O_Radio_da_Avo&parte=1": {
+   "f": "019.json",
+   "s": 200
+  },
+  "/api/video?ep=01&obra=O_Radio_da_Avo&parte=1": {
+   "f": "020.json",
+   "s": 200
+  },
+  "/api/ajustes/segmentos?ep=01&obra=O_Radio_da_Avo&parte=1": {
+   "f": "021.json",
+   "s": 200
+  },
+  "/api/revisao?ep=01&obra=O_Radio_da_Avo&parte=2": {
+   "f": "022.json",
+   "s": 200
+  },
+  "/api/video?ep=01&obra=O_Radio_da_Avo&parte=2": {
+   "f": "023.json",
+   "s": 200
+  },
+  "/api/ajustes/segmentos?ep=01&obra=O_Radio_da_Avo&parte=2": {
+   "f": "024.json",
+   "s": 200
+  },
+  "/api/video?ep=01&obra=O_Radio_da_Avo&parte=0": {
+   "f": "025.json",
+   "s": 200
+  },
+  "/api/mesa?ep=02&obra=O_Radio_da_Avo": {
+   "f": "026.json",
+   "s": 200
+  },
+  "/api/pendencias?ep=02&obra=O_Radio_da_Avo": {
+   "f": "027.json",
+   "s": 200
+  },
+  "/api/texto?ep=02&obra=O_Radio_da_Avo": {
+   "f": "028.json",
+   "s": 200
+  },
+  "/api/arte?ep=02&obra=O_Radio_da_Avo": {
+   "f": "029.json",
+   "s": 200
+  },
+  "/api/imagens?ep=02&obra=O_Radio_da_Avo": {
+   "f": "030.json",
+   "s": 200
+  },
+  "/api/publicacao?ep=02&obra=O_Radio_da_Avo": {
+   "f": "031.json",
+   "s": 500
+  },
+  "/api/ajustes/trilha?ep=02&obra=O_Radio_da_Avo": {
+   "f": "032.json",
+   "s": 200
+  },
+  "/api/revisao?ep=02&obra=O_Radio_da_Avo&parte=1": {
+   "f": "033.json",
+   "s": 500
+  },
+  "/api/video?ep=02&obra=O_Radio_da_Avo&parte=1": {
+   "f": "034.json",
+   "s": 500
+  },
+  "/api/ajustes/segmentos?ep=02&obra=O_Radio_da_Avo&parte=1": {
+   "f": "035.json",
+   "s": 500
+  },
+  "/api/video?ep=02&obra=O_Radio_da_Avo&parte=0": {
+   "f": "036.json",
+   "s": 500
+  }
+ }
+}

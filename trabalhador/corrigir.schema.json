@@ -1,0 +1,10 @@
+{
+ "type": "object",
+ "properties": {
+  "trocas": {"type": "array", "items": {"type": "object", "properties": {
+    "alerta": {"type": "integer"}, "antes": {"type": "string"}, "depois": {"type": "string"}}, "required": ["alerta", "antes", "depois"]}},
+  "sem_troca": {"type": "array", "items": {"type": "object", "properties": {
+    "alerta": {"type": "integer"}, "motivo": {"type": "string"}}, "required": ["alerta", "motivo"]}}
+ },
+ "required": ["trocas", "sem_troca"]
+}

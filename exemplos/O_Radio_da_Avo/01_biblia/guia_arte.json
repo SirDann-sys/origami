@@ -1,0 +1,51 @@
+{
+ "estilo": "Korean webtoon manhwa illustration, cinematic romantic drama key art, clean lineart, soft painterly shading, moody lighting, rich atmosphere, highly detailed, no text, no watermark, no speech bubbles",
+ "estilo_capas": "Cool, dark cinematic palette: deep navy and blue shadows, ONE single warm light source (a lamp, a window, a sunrise backlight) creating a small pool of light; the upper half of the image is dark and empty (only shadow, sky or blurred background, no faces and no important objects there); the story's key object and the characters sit in the lower half.",
+ "contextos": [
+  "fora",
+  "trabalho"
+ ],
+ "regras": [
+  "Personagens de costas, de perfil ou de longe sempre que possível.",
+  "Imagem no capítulo do Wattpad entra DEPOIS da frase que revela o que ela mostra."
+ ],
+ "regras_capas": [
+  "O objeto da história conta a cena melhor que um rosto: primeiro plano no objeto (xícara, sapatos, carta, monitor), personagens pequenas, de costas ou desfocadas.",
+  "Uma luz só (luminária quente com a cidade em bokeh, ou contraluz do nascer do sol); nada de luz chapada.",
+  "Metade de cima escura e vazia: nada importante acima de 40% da altura (ali entra o título).",
+  "Quem fica de costas em primeiro plano aparece só com ombro e nuca, desfocado na borda; o penteado e a cor do cabelo da ficha são obrigatórios e escritos por extenso (ex.: 'long loose wavy BLONDE hair', 'low bun at the nape, not a ponytail').",
+  "Descrever a câmera: 'over-the-shoulder', quem fica de costas e quem fica de frente.",
+  "Recipiente vazio: escrever 'completely dry, no liquid inside' (o gerador ignora 'EMPTY').",
+  "Contagem de objetos: dizer o número por extenso e 'exactly'; a triagem confere.",
+  "Evitar mãos em destaque, letreiros, placas, lanternas com escrita e telas com texto (saem com pseudo-escrita); números curtos como '5:30' podem.",
+  "Rosto grande e de frente só quando a cena exige; figuras pequenas de frente saem com rosto em branco.",
+  "Coerência com o texto: o que está na mesa, a hora do dia e quem está presente vêm do trecho do mestre."
+ ],
+ "personagens": {
+  "lia": {
+   "trabalho": "Brazilian woman around 28, slim, average height, light-brown skin, dark-brown wavy shoulder-length hair loosely tied back, tired eyes with dark circles, no makeup, wearing jeans, a dark t-shirt and a grey cardigan, investigating her late grandmother's old house: kitchen table with envelopes, dusty attic, holding a blue notebook or turning the golden knob of an old wooden radio, soft warm dim light",
+   "fora": "Same Brazilian woman around 28, light-brown skin, dark-brown wavy shoulder-length hair, grey cardigan over dark t-shirt, worn sneakers, small backpack on one shoulder, standing by a mountain road beside a broken-down intercity bus, overcast afternoon, melancholic mood",
+   "retrato": "Front-facing portrait of a Brazilian woman around 28, light-brown skin, dark-brown wavy shoulder-length hair loosely tied, brown eyes with tired dark circles, no makeup, grey cardigan, serious grieving yet curious expression, soft warm window light, plain blurred kitchen background, realistic"
+  },
+  "tomas": {
+   "trabalho": "Brazilian man around 32, broad slightly hunched shoulders, light-brown skin, short messy dark-brown hair, several days' stubble, deep dark circles under his eyes, wrinkled light-blue dress shirt with rolled sleeves, chino trousers, sitting at an old kitchen table with a pile of bank envelopes and letters, or holding up a phone flashlight at the bottom of an attic ladder",
+   "fora": "Same Brazilian man around 32, light-brown skin, short messy dark-brown hair, stubble, wrinkled light-blue shirt with rolled sleeves, phone in hand, standing in a narrow hallway of an old Brazilian house, exhausted and wary posture",
+   "retrato": "Front-facing portrait of a Brazilian man around 32, light-brown skin, short messy dark-brown hair, several days' stubble, brown eyes with deep dark circles, wrinkled light-blue dress shirt, dry tired and resentful expression, soft warm light, plain blurred background, realistic"
+  },
+  "avo": {
+   "trabalho": "Petite elderly Brazilian woman around 80, short neatly combed white hair, thin-framed glasses, red lipstick, wrinkled expressive face, discreet floral dress with a kitchen apron, in a modest 1990s-style Brazilian kitchen at night, listening to a wooden radio with golden knobs on a shelf above an old refrigerator, singing along, a child doing homework at the table, warm nostalgic light",
+   "fora": "Same petite elderly Brazilian woman around 80, short white hair, thin-framed glasses, red lipstick, cardigan over a patterned blouse, opening a kitchen window in the morning with a coffee cup in hand, faintly annoyed glance toward the neighbor's house",
+   "retrato": "Front-facing portrait of a petite elderly Brazilian woman around 80, short neatly combed white hair, thin-framed glasses, red lipstick, kind wrinkled face with a hint of mischief, cardigan over a floral blouse, soft warm nostalgic light, plain blurred background, realistic"
+  }
+ },
+ "simbolos": {},
+ "referencias": {
+  "lia": "03_personagens/lia/ref.png",
+  "tomas": "03_personagens/tomas/ref.png"
+ },
+ "referencias_capa": {},
+ "capas_com_referencia": true,
+ "acabamento_rosto": true,
+ "_nota": "Rascunho do Origami: revise as descrições (são fixas para a série inteira).",
+ "contexto_padrao": "trabalho"
+}

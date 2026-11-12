@@ -1,0 +1,13 @@
+{
+ "type": "object",
+ "properties": {
+  "mestre_md": {"type": "string", "description": "o texto-mestre completo, no formato pedido"},
+  "palavras": {"type": "integer"},
+  "falas_literais": {"type": "array", "items": {"type": "string"}, "description": "falas do autor mantidas quase literais"},
+  "inventados": {"type": "array", "items": {"type": "string"}, "description": "detalhes, falas ou pontes que NÃO estão na fonte (o autor aprova ou corta)"},
+  "decisoes_aplicadas": {"type": "array", "items": {"type": "string"}},
+  "corte_fonte": {"type": "string", "description": "onde a fonte foi cortada e o que fica para o próximo episódio"},
+  "duvidas": {"type": "array", "items": {"type": "string"}, "description": "pontos em que a fonte é ambígua e o autor deve decidir"}
+ },
+ "required": ["mestre_md", "palavras", "falas_literais", "inventados", "decisoes_aplicadas", "corte_fonte", "duvidas"]
+}

@@ -1,0 +1,34 @@
+{
+ "data": "2026-11-06 14:01",
+ "erros": [
+  "P2: 155 palavras ≈ 65 s (fora de 65–150 s)"
+ ],
+ "repeticoes": [],
+ "observacoes": [
+  "Nível preservar: texto do mestre na íntegra e na ordem, só dividido em falas. Os números já estavam por extenso.",
+  "Corte em 2 partes: Parte 1 com cerca de 226 palavras, terminando na pergunta 'Para que ela precisaria de quarenta mil reais?'. Parte 2 com cerca de 185 palavras, terminando no gancho do rádio sumido.",
+  "Narração e falas da Lia na voz 'lia'. Os incisos de diálogo ('ele disse, sem levantar os olhos', 'eu disse') viraram falas curtas de narração logo depois da fala do personagem.",
+  "A voz 'avo' não foi usada neste episódio porque a avó não fala.",
+  "Decisões I-04 e I-07 respeitadas: nada se acrescentou sobre o paradeiro do rádio nem sobre a causa da morte.",
+  "Figurino 'fora' para os dois irmãos: Lia acabou de chegar de viagem. Horário da cena não definido no texto, por isso o fundo novo ficou sem variante de horário."
+ ],
+ "vozes_novas": [
+  "lia",
+  "tomas"
+ ],
+ "fundos_novos": [
+  "fundo_cozinha_avo"
+ ],
+ "partes": [
+  {
+   "parte": 1,
+   "palavras": 219,
+   "segundos": 91
+  },
+  {
+   "parte": 2,
+   "palavras": 155,
+   "segundos": 65
+  }
+ ]
+}

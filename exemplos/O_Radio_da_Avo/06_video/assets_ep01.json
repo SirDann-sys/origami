@@ -1,0 +1,397 @@
+{
+ "estilo": "Korean webtoon manhwa illustration, cinematic romantic drama key art, clean lineart, soft painterly shading, moody lighting, rich atmosphere, highly detailed, no text, no watermark, no speech bubbles",
+ "itens": [
+  {
+   "id": "fundo_cozinha_avo",
+   "tipo": "fundo",
+   "formato": "largo",
+   "seed": 108,
+   "prompt": "Wide view of an old, modest Brazilian grandmother's kitchen in a small house, seen from the open doorway at eye level, no people. Bare plain grey walls with NOTHING hanging on them: no pictures, no frames, no photos, no posters, no switches, no lighters, no boxes, no plaques. In the back center, an old late-1990s plain white two-door refrigerator with no labels, no logos, no stickers, no text. Directly above the refrigerator, exactly one empty wooden shelf with nothing on it. On the wall right behind and above that empty shelf, a clearly visible lighter, unfaded rectangular patch of paint, sharply outlined against the darker dusty wall, as if a framed picture had hung there for decades and was recently removed; the patch is empty, nothing inside it. On the left, a worn wooden table with two creaky wooden chairs; on the table only a small pile of closed plain blank paper envelopes, no writing, no stamps, and no cup on the table. On the right, a white ceramic kitchen sink on a simple counter; inside the sink basin sits exactly one plain white coffee cup without a saucer, the only cup in the whole image, with a spoon inside it and one small faint smudge of red lipstick on the upper edge of the rim, where lips touched it; the rest of the cup is plain white with no pattern. Exactly one simple window with plain curtains on the left wall lets in soft muted grey daylight. Quiet, melancholic atmosphere, cool desaturated tones, no text, no writing, no labels anywhere.",
+   "prompt_original": "Old modest Brazilian grandmother's kitchen in a small house, worn wooden table with creaky chairs and a pile of envelopes, ceramic sink with a single coffee cup with a red lipstick mark on the rim and a spoon inside, old late-1990s refrigerator, empty wooden shelf above the fridge with a lighter unfaded rectangle on the wall, simple curtained window, soft muted daylight, quiet melancholic atmosphere, no people",
+   "triagem": {
+    "vistas": [
+     "fundo_cozinha_avo_s100.png",
+     "fundo_cozinha_avo_s101.png",
+     "fundo_cozinha_avo_s102.png",
+     "fundo_cozinha_avo_s103.png",
+     "fundo_cozinha_avo_s104.png",
+     "fundo_cozinha_avo_s105.png",
+     "fundo_cozinha_avo_s106.png",
+     "fundo_cozinha_avo_s107.png",
+     "fundo_cozinha_avo_s108.png",
+     "fundo_cozinha_avo_s109.png",
+     "fundo_cozinha_avo_s110.png",
+     "fundo_cozinha_avo_s111.png"
+    ],
+    "resultado": {
+     "fundo_cozinha_avo_s100.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Pseudo-escrita nos papéis da mesa (manchete e linhas de texto inventadas)",
+       "Xícara com pires sobre a mesa, não na pia; prateleira dupla com objeto em cima",
+       "Geladeira inox moderna; pia de banheiro"
+      ],
+      "assunto_y": [
+       0.02,
+       1
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "fundo_cozinha_avo_s101.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Pseudo-escrita na plaquinha da geladeira e nas cartas",
+       "Xícara cheia na mesa e colher solta; pia parece máquina de lavar/eletrodoméstico deformado"
+      ],
+      "assunto_y": [
+       0.05,
+       1
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "fundo_cozinha_avo_s102.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Pseudo-escrita nos papéis da mesa e na etiqueta da geladeira",
+       "Duas xícaras (mesa e pia)"
+      ],
+      "assunto_y": [
+       0,
+       1
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "fundo_cozinha_avo_s103.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Pseudo-escrita nos papéis, no rótulo do pote da prateleira e na plaquinha da geladeira",
+       "Xícara na mesa"
+      ],
+      "assunto_y": [
+       0.05,
+       1
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "fundo_cozinha_avo_s104.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "'Lighter patch' virou um isqueiro vermelho preso numa placa na parede: objeto estranho que chama atenção no fundo",
+       "Segunda prateleira com objetos à direita; placa esverdeada na parede"
+      ],
+      "assunto_y": [
+       0.03,
+       1
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "fundo_cozinha_avo_s105.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Isqueiro vermelho numa caixa na parede (leitura literal de 'lighter')",
+       "Interruptores dos dois lados; duas janelas"
+      ],
+      "assunto_y": [
+       0.05,
+       1
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "fundo_cozinha_avo_s106.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Quadro de paisagem e isqueiro pendurados na parede",
+       "Mancha vermelha na xícara parece um desenho de lábios, não um borrão de batom"
+      ],
+      "assunto_y": [
+       0.05,
+       1
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "fundo_cozinha_avo_s107.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Fotografia de uma pessoa pendurada na parede (gente no cenário)",
+       "Isqueiro na parede; adesivo na geladeira"
+      ],
+      "assunto_y": [
+       0.05,
+       1
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "fundo_cozinha_avo_s108.png": {
+      "aprovada": true,
+      "nota": 6,
+      "problemas": [
+       "Obs.: há duas xícaras na pia e moldura vazia na parede em vez de só a marca; batom parece respingo",
+       "Lugar, luz cinza e clima corretos, sem gente nem letras"
+      ],
+      "assunto_y": [
+       0.05,
+       1
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "fundo_cozinha_avo_s109.png": {
+      "aprovada": true,
+      "nota": 7,
+      "problemas": [
+       "Obs.: moldura vazia sobre a mancha mais escura (o pedido era só a marca clara); xícara com pontinhos vermelhos",
+       "Cozinha modesta correta, sem defeitos, luz fria única da janela"
+      ],
+      "assunto_y": [
+       0.05,
+       1
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "fundo_cozinha_avo_s110.png": {
+      "aprovada": true,
+      "nota": 6,
+      "problemas": [
+       "Obs.: moldura vazia ao lado e marca clara deslocada na parede direita; café dentro da xícara; colher se confunde com a torneira"
+      ],
+      "assunto_y": [
+       0.05,
+       1
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "fundo_cozinha_avo_s111.png": {
+      "aprovada": true,
+      "nota": 6,
+      "problemas": [
+       "Obs.: moldura vazia na parede; café na xícara; a colher lembra um filete de água saindo da torneira"
+      ],
+      "assunto_y": [
+       0.05,
+       1
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     }
+    },
+    "rodadas": 1,
+    "comentario": "Aprovei 4 das 12. A melhor é a s109: cozinha modesta, luz fria vinda só da janela, nenhuma letra, nenhum defeito, e o enquadramento pela porta funciona bem como fundo parado. Reprovei a s100–s103 por letras inventadas nos papéis e nas etiquetas, e a s104–s107 porque o modelo entendeu 'lighter' como isqueiro e pendurou isqueiros, placas e quadros na parede (na s107 o quadro é a foto de uma pessoa). Nenhuma acertou bem a marca clara de quadro tirado: em todas as aprovadas aparece uma moldura vazia no lugar. A xícara também veio com café e o batom parece respingo. Como é cenário, isso fica só como observação. Se a marca do quadro tiver de aparecer na história, vale gerar de novo pedindo 'faded rectangle of cleaner paint' em vez de 'lighter patch'.",
+    "melhores": [
+     "fundo_cozinha_avo_s109.png",
+     "fundo_cozinha_avo_s108.png",
+     "fundo_cozinha_avo_s111.png"
+    ],
+    "em": "2026-11-06 18:12"
+   },
+   "pre_escolhida": "fundo_cozinha_avo_s109.png",
+   "prazo_escolha": 1793999746.225601,
+   "escolhida": "fundo_cozinha_avo_s109.png",
+   "escolha_auto": true
+  },
+  {
+   "id": "retrato_lia",
+   "tipo": "retrato",
+   "formato": "alto",
+   "seed": 300,
+   "prompt": "Portrait card of Front-facing portrait of a Brazilian woman around 28, light-brown skin, dark-brown wavy shoulder-length hair loosely tied, brown eyes with tired dark circles, no makeup, grey cardigan, serious grieving yet curious expression, soft warm window light, plain blurred kitchen background, realistic, chest up, facing the viewer, neutral background",
+   "triagem": {
+    "vistas": [
+     "retrato_lia_s300.png",
+     "retrato_lia_s301.png",
+     "retrato_lia_s302.png",
+     "retrato_lia_s303.png"
+    ],
+    "resultado": {
+     "retrato_lia_s300.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "As olheiras saíram como manchas escuras e borradas (sobretudo embaixo do olho direito), parecendo hematoma ou sujeira, não cansaço: lê-se como 'olho roxo'.",
+       "A camiseta por baixo do cardigã é branca; a ficha pede camiseta escura.",
+       "A testa franzida exagerada passa raiva/dor, não 'luto curioso'."
+      ],
+      "assunto_y": [
+       0.05,
+       1
+      ],
+      "rostos": [
+       "lia"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "retrato_lia_s301.png": {
+      "aprovada": true,
+      "nota": 6,
+      "problemas": [
+       "O cabelo está solto e não 'loosely tied', e o castanho puxa um pouco para o médio.",
+       "Não aparece a camiseta escura: só o cardigã, com decote fundo (pequeno desvio da ficha).",
+       "Expressão triste e certa, mas pouco 'curiosa'."
+      ],
+      "assunto_y": [
+       0.05,
+       1
+      ],
+      "rostos": [
+       "lia"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "retrato_lia_s302.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "As olheiras viraram manchas avermelhadas e arroxeadas nas bochechas, com aspecto de machucado.",
+       "Uma gota (lágrima ou suor) solta no rosto que o pedido não tem.",
+       "Decote fundo só com cardigã, sem a camiseta escura da ficha."
+      ],
+      "assunto_y": [
+       0.05,
+       1
+      ],
+      "rostos": [
+       "lia"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "retrato_lia_s303.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Manchas escuras e riscadas embaixo dos dois olhos, além de uma gota na bochecha: parece hematoma ou rímel borrado, e a ficha diz sem maquiagem.",
+       "Sem a camiseta escura, só o cardigã."
+      ],
+      "assunto_y": [
+       0.03,
+       1
+      ],
+      "rostos": [
+       "lia"
+      ],
+      "rosto_grande_de_frente": true
+     }
+    },
+    "rodadas": 1,
+    "comentario": "As quatro seguem a ficha no essencial: tom de pele, olhos castanhos, cardigã cinza e cozinha desfocada com luz quente de janela. O problema que se repete é o pedido de 'tired dark circles': o gerador desenhou manchas que parecem hematomas ou maquiagem borrada, e na s302 e na s303 ainda colocou gotas no rosto. Só a s301 tem olheiras discretas e uma pele limpa, então só ela passa. Ela ainda tem desvios pequenos: cabelo solto em vez de preso e nenhuma camiseta escura por baixo do cardigã. Se o autor preferir esperar, a próxima rodada pode usar o prompt corrigido.",
+    "melhores": [
+     "retrato_lia_s301.png"
+    ],
+    "em": "2026-11-06 18:02"
+   },
+   "pre_escolhida": "retrato_lia_s301.png",
+   "prazo_escolha": 1793999150.9181597,
+   "escolhida": "retrato_lia_s301.png",
+   "escolha_auto": true
+  },
+  {
+   "id": "retrato_tomas",
+   "tipo": "retrato",
+   "formato": "alto",
+   "seed": 300,
+   "prompt": "Portrait card of Front-facing portrait of a Brazilian man around 32, light-brown skin, short messy dark-brown hair, several days' stubble, brown eyes with deep dark circles, wrinkled light-blue dress shirt, dry tired and resentful expression, soft warm light, plain blurred background, realistic, chest up, facing the viewer, neutral background",
+   "triagem": {
+    "vistas": [
+     "retrato_tomas_s300.png",
+     "retrato_tomas_s301.png",
+     "retrato_tomas_s302.png",
+     "retrato_tomas_s303.png"
+    ],
+    "resultado": {
+     "retrato_tomas_s300.png": {
+      "aprovada": true,
+      "nota": 7,
+      "problemas": [
+       "O rosto ocupa quase todo o quadro e sobra pouco espaço acima da cabeça.",
+       "A camisa está lisa demais para quem pediu 'wrinkled'.",
+       "A expressão puxa mais para raiva do que para cansaço ressentido."
+      ],
+      "assunto_y": [
+       0.02,
+       0.85
+      ],
+      "rostos": [
+       "tomas"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "retrato_tomas_s301.png": {
+      "aprovada": true,
+      "nota": 8,
+      "problemas": [
+       "As olheiras estão um pouco suaves.",
+       "A camisa amarrota pouco."
+      ],
+      "assunto_y": [
+       0.01,
+       0.8
+      ],
+      "rostos": [
+       "tomas"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "retrato_tomas_s302.png": {
+      "aprovada": true,
+      "nota": 9,
+      "problemas": [
+       "A camisa amarrota pouco."
+      ],
+      "assunto_y": [
+       0.03,
+       0.82
+      ],
+      "rostos": [
+       "tomas"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "retrato_tomas_s303.png": {
+      "aprovada": true,
+      "nota": 8,
+      "problemas": [
+       "A luz forte de um lado deixa metade do rosto bem mais escura.",
+       "Há riscos soltos de traço na bochecha e na testa, mas são discretos."
+      ],
+      "assunto_y": [
+       0.02,
+       0.85
+      ],
+      "rostos": [
+       "tomas"
+      ],
+      "rosto_grande_de_frente": true
+     }
+    },
+    "rodadas": 1,
+    "comentario": "As quatro candidatas passam. Nenhuma tem defeito de geração, como mão deformada, rosto borrado ou letras inventadas. Todas seguem o pedido: homem brasileiro de uns 32 anos, pele morena clara, cabelo castanho-escuro curto e bagunçado, barba de alguns dias, olhos castanhos com olheiras e camisa social azul-clara. O fundo é neutro e desfocado e a luz é quente.\n\n- **s302 (a melhor):** tem a expressão mais fiel ao pedido, de cansaço seco com ressentimento. As olheiras são as mais marcadas e o enquadramento do peito para cima ficou equilibrado.\n- **s301:** tem bom enquadramento, com mais respiro em volta da cabeça.\n- **s303:** é forte, mas a luz de um lado só pesa no rosto.\n- **s300:** a cara fechada parece mais raiva do que cansaço, e o rosto aperta o quadro.\n\nAtenção: todas saíram em estilo ilustrado e não 'realistic' como o pedido diz. Mantive a aprovação porque o estilo é igual nas quatro e parece ser o padrão da série. Se o autor quiser fotorrealismo, peça outra rodada.\n\nPor ser um card de retrato, aqui o rosto de frente é pedido de propósito, não vai contra a regra de deixar personagens de costas.\n\nTodos os rostos são grandes e vão precisar de acabamento. Usei o id 'tomas' porque a ficha dele não veio entre as personagens enviadas.",
+    "melhores": [
+     "retrato_tomas_s302.png",
+     "retrato_tomas_s301.png",
+     "retrato_tomas_s303.png"
+    ],
+    "em": "2026-11-06 18:03"
+   },
+   "pre_escolhida": "retrato_tomas_s302.png",
+   "prazo_escolha": 1793999171.6133766,
+   "escolhida": "retrato_tomas_s302.png",
+   "escolha_auto": true
+  }
+ ]
+}

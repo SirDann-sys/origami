@@ -1,0 +1,9 @@
+{"type":"object","properties":{
+ "visao_geral_md":{"type":"string"},
+ "inconsistencias":{"type":"array","items":{"type":"object","properties":{"titulo":{"type":"string"},"eps":{"type":"array","items":{"type":"string"}},"contexto":{"type":"string"},"opcoes":{"type":"array","items":{"type":"string"}},"recomendada":{"type":"integer"},"recomendacao":{"type":"string"}},"required":["titulo","eps","contexto","opcoes","recomendada","recomendacao"]}},
+ "regras":{"type":"array","items":{"type":"string"}},
+ "biblia_md":{"type":"string"},
+ "guia_arte":{"type":"object","additionalProperties":{"type":"object","additionalProperties":{"type":"string"}}},
+ "pronuncia":{"type":"object","additionalProperties":{"type":"string"}},
+ "elenco":{"type":"array","items":{"type":"object","properties":{"id":{"type":"string"},"nome":{"type":"string"},"descricao":{"type":"string"},"genero":{"type":"string"},"idade":{"type":"string"},"tom":{"type":"string"},"narradora":{"type":"boolean"}},"required":["id","nome","descricao","genero","idade","tom"]}}},
+ "required":["visao_geral_md","inconsistencias","regras","biblia_md","guia_arte","pronuncia","elenco"]}

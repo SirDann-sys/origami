@@ -1,0 +1,18 @@
+{
+ "type": "object",
+ "properties": {
+  "candidatas": {"type": "array", "items": {"type": "object", "properties": {
+    "arquivo": {"type": "string"},
+    "aprovada": {"type": "boolean"},
+    "nota": {"type": "integer", "minimum": 0, "maximum": 10},
+    "problemas": {"type": "array", "items": {"type": "string"}},
+    "assunto_y": {"type": "array", "items": {"type": "number"}, "minItems": 2, "maxItems": 2},
+    "rostos": {"type": "array", "items": {"type": "string"}},
+    "rosto_grande_de_frente": {"type": "boolean"}},
+   "required": ["arquivo", "aprovada", "nota", "problemas", "assunto_y", "rostos", "rosto_grande_de_frente"]}},
+  "melhores": {"type": "array", "items": {"type": "string"}, "maxItems": 3},
+  "comentario": {"type": "string"},
+  "prompt_corrigido": {"type": "string"}
+ },
+ "required": ["candidatas", "melhores", "comentario", "prompt_corrigido"]
+}

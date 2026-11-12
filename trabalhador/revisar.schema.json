@@ -1,0 +1,5 @@
+{"type":"object","properties":{
+ "mestre_md":{"type":"string"},
+ "mudancas":{"type":"array","items":{"type":"object","properties":{"onde":{"type":"string"},"o_que":{"type":"string"}},"required":["onde","o_que"]}},
+ "duvidas":{"type":"array","items":{"type":"string"}}},
+ "required":["mestre_md","mudancas","duvidas"]}

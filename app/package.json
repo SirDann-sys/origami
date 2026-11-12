@@ -1,0 +1,11 @@
+{
+  "name": "origami",
+  "productName": "Origami",
+  "version": "0.2.0",
+  "description": "Origami: do texto ao episódio publicado",
+  "main": "main.js",
+  "private": true,
+  "devDependencies": {
+    "electron": "33.4.11"
+  }
+}

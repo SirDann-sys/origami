@@ -1,0 +1,1 @@
+{"type":"object","properties":{"notas_md":{"type":"string"},"resumo_ate_aqui":{"type":"string"}},"required":["notas_md","resumo_ate_aqui"]}

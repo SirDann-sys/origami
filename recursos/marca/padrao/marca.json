@@ -1,0 +1,21 @@
+{
+ "_nota": "Marca padrão do Origami. Cada obra pode apontar para a sua (projeto.json → \"marca\"). Caminhos relativos à pasta do app.",
+ "nome": "Origami",
+ "handle": "@origami.demo",
+ "assinatura": "por Autor Exemplo",
+ "simbolo_branco": "recursos/marca/padrao/simbolo_branco.png",
+ "simbolo_cor": "recursos/marca/padrao/simbolo_cor.png",
+ "cor_destaque": [167, 112, 255],
+ "cor_texto": [244, 235, 223],
+ "marca_dagua": {"opacidade": 0.38, "troca_s": 10, "transicao_s": 0.6},
+ "cartao_final": {
+  "continua": "Continua na",
+  "fim": "Fim do Episódio {ep}",
+  "fim_sub": "Episódio {prox} em breve",
+  "linhas": ["Episódio completo no YouTube", "Capítulos no Wattpad"],
+  "linhas_horizontal": ["Inscreva-se para não perder", "Capítulos no Wattpad"]
+ },
+ "direitos": "© Autor Exemplo",
+ "rodape_youtube": "📖 Uma série narrada em episódios.\n✒️ Escrito por Autor Exemplo\nVozes, ilustrações e trilha produzidas com ferramentas de IA sob direção do autor.",
+ "rotulo_ia": "TikTok: Conteúdo gerado por IA = ligado · Instagram: Rótulo de IA = ligado · YouTube: Conteúdo alterado ou sintético = Sim"
+}

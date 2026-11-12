@@ -1,0 +1,5 @@
+# O mínimo para abrir a demonstração (interface + motor em modo somente leitura)
+requests>=2.31
+numpy>=1.26
+soundfile>=0.12
+opencv-python-headless>=4.8

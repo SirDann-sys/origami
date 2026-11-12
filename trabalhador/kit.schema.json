@@ -1,0 +1,12 @@
+{
+ "type": "object",
+ "properties": {
+  "youtube_titulo": {"type": "string"},
+  "youtube_topo": {"type": "string"},
+  "capitulos": {"type": "array", "items": {"type": "string"}},
+  "partes": {"type": "array", "items": {"type": "object", "properties": {
+    "n": {"type": "integer"}, "short_titulo": {"type": "string"}, "legenda": {"type": "string"}}, "required": ["n", "short_titulo", "legenda"]}},
+  "comentario_fixado": {"type": "string"}
+ },
+ "required": ["youtube_titulo", "youtube_topo", "capitulos", "partes", "comentario_fixado"]
+}

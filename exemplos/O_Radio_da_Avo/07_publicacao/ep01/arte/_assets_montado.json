@@ -1,0 +1,1191 @@
+{
+ "estilo": "Korean webtoon manhwa illustration, cinematic romantic drama key art, clean lineart, soft painterly shading, moody lighting, rich atmosphere, highly detailed, no text, no watermark, no speech bubbles",
+ "itens": [
+  {
+   "id": "p01_xicara",
+   "uso": "capa parte 1",
+   "formato": "alto",
+   "prompt": "Dark old Brazilian grandmother's kitchen at early morning, quiet and still. The upper half of the image is dark and empty: only deep navy shadow on the wall and ceiling. In the lower half, close-up foreground on the flat tiled edge beside a worn kitchen sink: exactly one white ceramic cup standing on the counter edge, a single faded red lipstick print on its rim, a teaspoon resting inside it. The inside of the cup is completely dry, no liquid inside, only a thin dried brown ring at the bottom. One single warm light source: a pale dawn glow through a small window further back, soft-focus and blurred, creating a small pool of light near the cup; everything else in cool blue shadow. Low angle at counter level, shallow depth of field, cinematic, cool dark palette of deep navy and blue. Cool, dark cinematic palette: deep navy and blue shadows, ONE single warm light source (a lamp, a window, a sunrise backlight) creating a small pool of light; the upper half of the image is dark and empty (only shadow, sky or blurred background, no faces and no important objects there); the story's key object and the characters sit in the lower half.",
+   "trecho": "Ninguém tinha lavado a xícara dela.",
+   "seed": 121,
+   "prompt_original": "Dark old family kitchen, quiet and still. The upper half of the image is dark and empty: only deep navy shadow on the wall and ceiling, nothing important there. In the lower half, close-up foreground on the edge of a worn kitchen sink: exactly one white ceramic coffee cup with a faded red lipstick mark on the rim, a teaspoon resting inside it diagonally across the cup, a thin dried coffee ring at the bottom, completely dry, no liquid inside. One single warm light source: a small pendant lamp over the kitchen table further back, creating a small pool of amber light; everything else in cool blue shadow. In the soft-focus background, small and blurred, {tomas@fora} sits at the kitchen table in profile, head lowered over a pile of plain envelopes with no visible writing. Low angle from the sink counter level, shallow depth of field, cinematic, no hands in focus, no text anywhere.",
+   "triagem": {
+    "vistas": [
+     "p01_xicara_s101.png",
+     "p01_xicara_s102.png",
+     "p01_xicara_s103.png",
+     "p01_xicara_s104.png",
+     "p01_xicara_s105.png",
+     "p01_xicara_s106.png",
+     "p01_xicara_s107.png",
+     "p01_xicara_s108.png",
+     "p01_xicara_s109.png",
+     "p01_xicara_s110.png",
+     "p01_xicara_s111.png",
+     "p01_xicara_s112.png",
+     "p01_xicara_s113.png",
+     "p01_xicara_s114.png",
+     "p01_xicara_s115.png",
+     "p01_xicara_s116.png",
+     "p01_xicara_s117.png",
+     "p01_xicara_s118.png",
+     "p01_xicara_s119.png",
+     "p01_xicara_s120.png",
+     "p01_xicara_s121.png",
+     "p01_xicara_s122.png",
+     "p01_xicara_s123.png",
+     "p01_xicara_s124.png"
+    ],
+    "resultado": {
+     "p01_xicara_s101.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Xícara com café líquido dentro (pedido: completamente seca)",
+       "Personagem errada: homem de barba ~32 anos; a narradora do trecho é a neta (Lia, mulher de 28, cabelo castanho-escuro ondulado)",
+       "Homem grande, de perfil e nítido, ocupando a metade de cima (acima de 40%) — quebra a área do título",
+       "Papéis na mesa e celular: o trecho ainda não revelou os envelopes (spoiler)",
+       "Batom é uma mancha escorrida na lateral, não marca na borda"
+      ],
+      "assunto_y": [
+       0.74,
+       0.95
+      ],
+      "rostos": [
+       "homem_fora_da_ficha"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "p01_xicara_s102.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Café líquido dentro da xícara",
+       "Homem fora da ficha no lugar da narradora (Lia)",
+       "Papéis/envelopes na mesa ainda não revelados pelo trecho",
+       "Batom escorrendo como sangue na lateral"
+      ],
+      "assunto_y": [
+       0.75,
+       0.94
+      ],
+      "rostos": [
+       "homem_fora_da_ficha"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "p01_xicara_s103.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Café líquido dentro da xícara",
+       "Homem fora da ficha, nítido e grande no centro",
+       "Pilha de papéis na mesa (spoiler)",
+       "Marca de batom quase invisível"
+      ],
+      "assunto_y": [
+       0.75,
+       0.95
+      ],
+      "rostos": [
+       "homem_fora_da_ficha"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "p01_xicara_s104.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Líquido dentro da caneca",
+       "É uma caneca (mug), não xícara",
+       "Homem fora da ficha",
+       "Papéis na mesa (spoiler)",
+       "Batom como beijo carimbado na lateral, não na borda"
+      ],
+      "assunto_y": [
+       0.73,
+       0.96
+      ],
+      "rostos": [
+       "homem_fora_da_ficha"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "p01_xicara_s105.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Café líquido dentro da xícara",
+       "Rádio antigo e caderno azul em cena: elementos de episódios seguintes (spoiler)",
+       "Luminária e cabeça da Lia acima de 40% da altura",
+       "Lia de perfil/3-4 e nítida em vez de pequena e de costas"
+      ],
+      "assunto_y": [
+       0.66,
+       0.92
+      ],
+      "rostos": [
+       "lia"
+      ],
+      "rosto_grande_de_frente": false
+     },
+     "p01_xicara_s106.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Líquido dentro da xícara",
+       "Batom duplicado/triplicado: marcas de beijo dentro e fora da xícara",
+       "Rádio antigo e objeto com tela (spoiler e possível texto)",
+       "Celular/tablet na mão da Lia"
+      ],
+      "assunto_y": [
+       0.68,
+       0.93
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "p01_xicara_s107.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Duas colheres na xícara (pedido: uma)",
+       "Resto de líquido no fundo",
+       "Rádio e livros na mesa (spoiler)",
+       "Lia de frente, rosto nítido e grande"
+      ],
+      "assunto_y": [
+       0.61,
+       0.92
+      ],
+      "rostos": [
+       "lia"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "p01_xicara_s108.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Lia duplicada (uma de costas e outra de frente)",
+       "Resto de café dentro da xícara",
+       "Caderno azul na mão (spoiler)",
+       "Batom como beijo carimbado na lateral"
+      ],
+      "assunto_y": [
+       0.66,
+       0.92
+      ],
+      "rostos": [
+       "lia"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "p01_xicara_s109.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Caneca cheia de café, sem marca de batom",
+       "Lia de frente encarando a câmera",
+       "Rádio e livros no fundo",
+       "Xícara sobre o balcão, não na pia"
+      ],
+      "assunto_y": [
+       0.7,
+       0.92
+      ],
+      "rostos": [
+       "lia"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "p01_xicara_s110.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Lia duplicada (uma de costas e uma figura pequena de frente no corredor, com rosto borrado)",
+       "Resto de café no fundo",
+       "Rádio, livros e caderno azul (spoiler)",
+       "Batom como beijo carimbado na lateral"
+      ],
+      "assunto_y": [
+       0.65,
+       0.93
+      ],
+      "rostos": [
+       "lia"
+      ],
+      "rosto_grande_de_frente": false
+     },
+     "p01_xicara_s111.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Defeito grave: Lia em miniatura em pé sobre o balcão (escala impossível) e duplicada",
+       "Xícara com café",
+       "Rádio e caderno azul (spoiler)"
+      ],
+      "assunto_y": [
+       0.64,
+       0.93
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "p01_xicara_s112.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Café líquido dentro da xícara",
+       "Rádio antigo e livros na mesa (spoiler)",
+       "Batom como beijo carimbado na lateral, não na borda",
+       "Lia sem a cardigã cinza bem definida; de resto, a composição mais próxima do padrão"
+      ],
+      "assunto_y": [
+       0.68,
+       0.92
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "p01_xicara_s113.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Duas colheres dentro da xícara (o pedido diz uma)",
+       "Xícara com café dentro, e o pedido diz completamente seca",
+       "Há um homem de uns 32 anos com rosto em 3/4 e nítido no meio da imagem. O trecho não tem esse homem: quem chega é a narradora (Lia), e ele não tem ficha",
+       "Celular e pilha de papéis na mesa: o trecho ainda não fala disso (spoiler)",
+       "Marca de batom grande demais, parece mancha escorrendo"
+      ],
+      "assunto_y": [
+       0.4,
+       0.96
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": true
+     },
+     "p01_xicara_s114.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Duas colheres dentro da xícara",
+       "Xícara com café dentro (não está seca)",
+       "Homem fora do trecho e sem ficha, nítido e com rosto em 3/4, escrevendo em papéis",
+       "A marca vermelha parece sangue escorrendo, não batom"
+      ],
+      "assunto_y": [
+       0.35,
+       0.93
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": true
+     },
+     "p01_xicara_s115.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Xícara com café dentro (o pedido diz seca)",
+       "Homem fora do trecho e sem ficha, de pé, com rosto em 3/4 e nítido, mexendo em papéis e no celular",
+       "Os papéis na mesa ainda não aparecem no trecho (spoiler)"
+      ],
+      "assunto_y": [
+       0.3,
+       0.95
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": true
+     },
+     "p01_xicara_s116.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Defeito de geração: corte horizontal bem visível a uns 39% da altura, como se fossem duas imagens coladas",
+       "Duas colheres dentro da xícara",
+       "Homem fora do trecho e sem ficha, nítido e com rosto em 3/4",
+       "A marca vermelha parece gota de sangue, não batom",
+       "Pilhas de papéis e celular, que o trecho ainda não mostra"
+      ],
+      "assunto_y": [
+       0.38,
+       0.94
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": true
+     },
+     "p01_xicara_s117.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "A xícara está com café dentro, e o pedido diz completamente seca. Contradiz também o trecho: a avó morreu há três dias.",
+       "A marca de batom virou várias manchas vermelhas espalhadas pelo corpo da xícara, e não uma marca na borda.",
+       "Aparece um homem de uns 32 anos, nítido e com o rosto visível. Ele não está no trecho: quem narra e chega à casa é a Lia, e na cena não há mais ninguém.",
+       "Mesa com papéis/envelopes: o trecho ainda não fala disso (spoiler).",
+       "Há duas luminárias acesas, e o padrão pede uma luz só.",
+       "A xícara está dentro da cuba, e não na borda da pia.",
+       "O homem e as luminárias ocupam a faixa entre 20% e 40% da altura, onde entra o título."
+      ],
+      "assunto_y": [
+       0.18,
+       0.95
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": true
+     },
+     "p01_xicara_s118.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "A xícara está com café dentro, e o pedido diz completamente seca.",
+       "Aparece um homem em pé, nítido e com o rosto em 3/4. Ele não está no trecho, que pede a Lia sozinha chegando.",
+       "Pilha de papéis/envelopes na mesa: spoiler, o trecho não fala disso.",
+       "Há duas luminárias (uma luz duplicada).",
+       "O rosto e as luminárias estão entre 25% e 40% da altura, na zona do título.",
+       "A xícara está dentro da cuba, e não na borda."
+      ],
+      "assunto_y": [
+       0.22,
+       0.95
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": true
+     },
+     "p01_xicara_s119.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "A xícara está cheia de café, e o pedido diz completamente seca.",
+       "O batom aparece como uma mancha grande no corpo da xícara, e não na borda.",
+       "Aparece um homem de perfil, nítido e sem desfoque. Ele não está no trecho.",
+       "Papéis/envelopes na mesa: spoiler.",
+       "Aparece um segundo recipiente metálico à esquerda.",
+       "A xícara está dentro da cuba.",
+       "A metade de cima ficou escura e boa (é o ponto positivo desta)."
+      ],
+      "assunto_y": [
+       0.38,
+       0.95
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": true
+     },
+     "p01_xicara_s120.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "A xícara está com café dentro, e o pedido diz completamente seca.",
+       "O batom escorre pelo corpo da xícara, como se fosse sangue, em vez de ser uma marca na borda.",
+       "Aparece um homem de perfil, nítido. Ele não está no trecho.",
+       "Pilha de papéis/envelopes na mesa: spoiler.",
+       "O rosto do homem fica perto dos 35–40% da altura, quase na zona do título.",
+       "A xícara está dentro da cuba."
+      ],
+      "assunto_y": [
+       0.35,
+       0.95
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": true
+     },
+     "p01_xicara_s121.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "A marca de batom saiu como duas manchas vermelhas espirradas que parecem gotas de sangue, e não como uma marca de lábios na borda. Isso sugere violência numa cena de luto e desvia a leitura do trecho.",
+       "O anel marrom aparece por fora do pé da xícara, como uma faixa pintada ou vista através da louça.",
+       "A composição é a mais bonita das quatro (xícara com asa, janela de madrugada desfocada, metade de cima escura), mas a marca com cara de sangue reprova."
+      ],
+      "assunto_y": [
+       0.55,
+       0.85
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "p01_xicara_s122.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "A xícara tem café dentro: o pedido era xícara seca, só com o anel no fundo.",
+       "O ambiente parece banheiro (azulejo até o alto e algo como banheira ou tanque à direita), não cozinha de avó.",
+       "A xícara não tem asa e parece uma tigela."
+      ],
+      "assunto_y": [
+       0.58,
+       0.84
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "p01_xicara_s123.png": {
+      "aprovada": true,
+      "nota": 6,
+      "problemas": [
+       "A xícara não tem asa e lembra um copinho ou tigela; na casa de avó brasileira o esperado é xícara com asa.",
+       "O anel marrom aparece por fora do pé da xícara, como se a louça fosse transparente. É discreto, mas existe.",
+       "O interior brilha como se a luz saísse da xícara (efeito um pouco mágico).",
+       "A marca de batom é uma única mancha vermelha vertical, pouco parecida com lábios, mas aceitável.",
+       "Pontos fortes: só uma xícara, seca, com a colher dentro e a pia ao lado; a janela de madrugada fica desfocada ao fundo, a metade de cima é escura e o clima frio tem uma luz quente só."
+      ],
+      "assunto_y": [
+       0.57,
+       0.87
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "p01_xicara_s124.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Há manchas vermelhas dentro da xícara e um pingo escorrendo da borda: parece sangue, não batom.",
+       "A xícara não tem asa e parece uma tigela.",
+       "O resíduo marrom aparece por fora do pé da xícara."
+      ],
+      "assunto_y": [
+       0.58,
+       0.87
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     }
+    },
+    "rodadas": 3,
+    "comentario": "Só a s123 passou, com ressalvas. É a única que tem uma xícara só, seca, com a marca vermelha na borda, ao lado da pia, numa cozinha de madrugada com a metade de cima escura. Nela, a xícara não tem asa e o resíduo aparece por fora do pé. A s121 é a mais bonita, mas o batom virou duas manchas espirradas com cara de sangue, o que muda o tom da cena. A s124 também tem manchas que parecem sangue, dentro da xícara e escorrendo. A s122 tem café dentro e parece um banheiro. Se o autor quiser algo mais forte que a s123 (nota 6), vale mais uma rodada com o pedido simplificado abaixo. Ele pede xícara com asa e marca de lábios. O anel seco saiu do pedido porque o gerador o desenha por fora da xícara.",
+    "melhores": [
+     "p01_xicara_s123.png"
+    ],
+    "em": "2026-11-06 19:18"
+   },
+   "pre_escolhida": "p01_xicara_s123.png",
+   "prazo_escolha": 1794003675.7819812,
+   "escolhida": "p01_xicara_s123.png",
+   "escolha_auto": true,
+   "ampliada_de": "p01_xicara_s123.png"
+  },
+  {
+   "id": "p02_prateleira",
+   "uso": "capa parte 2",
+   "formato": "alto",
+   "prompt": "Dark old kitchen at night. The upper half of the image is dark and empty: only deep navy shadow on the wall, nothing important there. In the lower half, eye-level view of a small wooden wall shelf mounted above an old rounded 1990s white refrigerator (only the top of the refrigerator visible at the bottom edge). The shelf is completely bare, exactly zero objects on it; on the wall just above the shelf, a pale lighter rectangle where the paint did not fade, the outline of something that used to stand there. One single warm light source: a pendant lamp off-frame to the side casting a soft amber glow across the shelf and the pale rectangle; the rest falls into cool blue shadow. No people, no hands, no text, quiet melancholic mood, shallow depth of field, cinematic. Cool, dark cinematic palette: deep navy and blue shadows, ONE single warm light source (a lamp, a window, a sunrise backlight) creating a small pool of light; the upper half of the image is dark and empty (only shadow, sky or blurred background, no faces and no important objects there); the story's key object and the characters sit in the lower half.",
+   "trecho": "Só um retângulo mais claro na parede, onde a tinta não tinha desbotado.",
+   "seed": 111,
+   "triagem": {
+    "vistas": [
+     "p02_prateleira_s111.png",
+     "p02_prateleira_s112.png",
+     "p02_prateleira_s113.png",
+     "p02_prateleira_s114.png"
+    ],
+    "resultado": {
+     "p02_prateleira_s111.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Defeito de geração: uma faixa horizontal dura corta a parede inteira por volta de 49% da altura, com uma emenda de tom bem visível que atravessa o retângulo claro",
+       "A luz vem de uma luminária de pé dentro do quadro, e não de um pendente fora do quadro como foi pedido",
+       "A plaqueta da geladeira tem uma pseudo-inscrição pequena"
+      ],
+      "assunto_y": [
+       0.45,
+       0.85
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "p02_prateleira_s112.png": {
+      "aprovada": true,
+      "nota": 7,
+      "problemas": [
+       "A luminária pendente aparece dentro do quadro (o pedido era fora do quadro) e fica entre 30% e 42% da altura, encostando no limite do título, mas é escura e discreta",
+       "O retângulo claro é muito branco e liso e lembra um pouco um papel colado. Mesmo assim fica separado da prateleira e se lê como marca na parede",
+       "A geladeira ocupa quase um quarto de baixo da imagem"
+      ],
+      "assunto_y": [
+       0.4,
+       0.73
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "p02_prateleira_s113.png": {
+      "aprovada": true,
+      "nota": 8,
+      "problemas": [
+       "A luminária pendente aparece dentro do quadro, na borda direita, e projeta luz âmbar no retângulo; aceitável",
+       "No canto inferior direito tem um porta-utensílios pequeno que não estava no pedido; é discreto e fica longe da prateleira",
+       "Os suportes da prateleira parecem pernas que descem atrás da geladeira; é pouco perceptível"
+      ],
+      "assunto_y": [
+       0.48,
+       0.78
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "p02_prateleira_s114.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Fidelidade: o retângulo claro tem bordas limpas, está apoiado direto no tampo da prateleira e tem um degradê de luz que lembra um quadro ou uma tela em branco em pé sobre ela. Lida assim, a prateleira deixa de estar vazia, e esse é o ponto da cena",
+       "A luminária pendente aparece dentro do quadro (o pedido era fora do quadro)"
+      ],
+      "assunto_y": [
+       0.4,
+       0.8
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     }
+    },
+    "rodadas": 1,
+    "comentario": "Duas aprovadas. A melhor é a s113: a metade de cima está escura e limpa, a parede rachada tem uma textura que reforça o clima, a luz âmbar cai bem no retângulo desbotado e a prateleira está claramente vazia. A s112 também funciona, com o retângulo bem separado da prateleira, mas a luminária fica mais alta e a imagem é menos expressiva. Reprovei a s111 por causa de uma faixa horizontal que corta a parede, um defeito de geração. Reprovei a s114 porque o retângulo está apoiado na prateleira e parece um quadro em branco em pé sobre ela, o que contradiz o \"estava vazia\" do trecho. Nas quatro a luminária aparece dentro do quadro. Isso não reprova, mas vale reforçar na próxima rodada.",
+    "melhores": [
+     "p02_prateleira_s113.png",
+     "p02_prateleira_s112.png"
+    ],
+    "em": "2026-11-06 18:22"
+   },
+   "pre_escolhida": "p02_prateleira_s113.png",
+   "prazo_escolha": 1794000339.7695005,
+   "escolhida": "p02_prateleira_s113.png",
+   "escolha_auto": true,
+   "ampliada_de": "p02_prateleira_s113.png"
+  },
+  {
+   "id": "mini_envelopes",
+   "uso": "miniatura",
+   "formato": "largo",
+   "prompt": "One continuous wide cinematic shot of an old Brazilian family kitchen at night. Low camera close to the tabletop. In the lower left of the frame, a worn wooden kitchen table lit by one single warm pendant lamp hanging just out of frame, a small pool of amber light on exactly three plain blank envelopes stacked loosely and exactly one folded blank sheet of paper lying on top. The rest of the kitchen fades into deep navy shadow that continues smoothly across to the right side of the frame, with a faint blurred window glowing cool blue far in the background. Upper half of the image dark and empty, only soft shadow. Cool, dark palette, shallow depth of field, quiet and ominous mood. Cool, dark cinematic palette: deep navy and blue shadows, ONE single warm light source (a lamp, a window, a sunrise backlight) creating a small pool of light; the upper half of the image is dark and empty (only shadow, sky or blurred background, no faces and no important objects there); the story's key object and the characters sit in the lower half.",
+   "trecho": "Ele empurrou um envelope na minha direção.",
+   "seed": 141,
+   "prompt_original": "Wide cinematic shot of an old family kitchen at night. Left half of the frame: foreground close-up of a worn wooden kitchen table under one single warm pendant lamp, a small pool of amber light on a pile of plain envelopes and exactly one opened folded letter lying on top, text not visible. Behind the table, slightly out of focus, {tomas@fora} sits in profile, head lowered, exhausted, no hands visible. Right half of the frame: dark and empty, only deep navy shadow and a faint blurred window, clean space for title text. Cool blue shadows, shallow depth of field, no readable text anywhere.",
+   "triagem": {
+    "vistas": [
+     "mini_envelopes_s121.png",
+     "mini_envelopes_s122.png",
+     "mini_envelopes_s123.png",
+     "mini_envelopes_s124.png",
+     "mini_envelopes_s125.png",
+     "mini_envelopes_s126.png",
+     "mini_envelopes_s127.png",
+     "mini_envelopes_s128.png",
+     "mini_envelopes_s129.png",
+     "mini_envelopes_s130.png",
+     "mini_envelopes_s131.png",
+     "mini_envelopes_s132.png",
+     "mini_envelopes_s133.png",
+     "mini_envelopes_s134.png",
+     "mini_envelopes_s135.png",
+     "mini_envelopes_s136.png",
+     "mini_envelopes_s137.png",
+     "mini_envelopes_s138.png",
+     "mini_envelopes_s139.png",
+     "mini_envelopes_s140.png",
+     "mini_envelopes_s141.png",
+     "mini_envelopes_s142.png",
+     "mini_envelopes_s143.png",
+     "mini_envelopes_s144.png"
+    ],
+    "resultado": {
+     "mini_envelopes_s121.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Imagem dividida em dois painéis com emenda vertical dura no meio (defeito de geração, parece montagem)",
+       "Rosto e tronco do homem e a luminária ocupam a metade de cima: a área do título não fica vazia",
+       "Homem em pé no corredor mexendo no celular: no trecho ele está à mesa empurrando o envelope para Lia",
+       "Sobre a mesa há uma pilha de folhas soltas, sem nenhum envelope; a carta tem pseudo-escrita",
+       "Cartaz na parede da esquerda com letras inventadas"
+      ],
+      "assunto_y": [
+       0.1,
+       0.92
+      ],
+      "rostos": [
+       "homem"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s122.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Emenda vertical dura dividindo a imagem em dois painéis",
+       "Rosto do homem e luminária na metade de cima",
+       "Homem em pé com o celular, longe da mesa: não bate com o trecho",
+       "Folhas soltas em vez de envelope; a carta tem pseudo-escrita legível como mancha de letras"
+      ],
+      "assunto_y": [
+       0.12,
+       0.88
+      ],
+      "rostos": [
+       "homem"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s123.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Emenda vertical dura dividindo a imagem em dois painéis",
+       "Cabeça do homem e luminária na metade de cima",
+       "Homem em pé no corredor com o celular, em vez de à mesa com Lia",
+       "Folhas soltas, sem envelope; linhas de pseudo-escrita na folha"
+      ],
+      "assunto_y": [
+       0.15,
+       0.9
+      ],
+      "rostos": [
+       "homem"
+      ],
+      "rosto_grande_de_frente": false
+     },
+     "mini_envelopes_s124.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Emenda vertical dura dividindo a imagem em dois painéis",
+       "Rosto do homem e luminária na metade de cima",
+       "Homem em pé com o celular, fora do que o trecho descreve",
+       "Pilha de folhas em vez de envelopes; pseudo-escrita na folha de cima"
+      ],
+      "assunto_y": [
+       0.12,
+       0.9
+      ],
+      "rostos": [
+       "homem"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s125.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Metade de cima ocupada: cabeça grande de Lia à esquerda, luminária no centro e rosto do homem em torno de 40-55% da altura",
+       "Não sobra lado vazio para o texto da miniatura: o lado direito tem o homem e a janela",
+       "Carta com pseudo-escrita bem visível",
+       "Pasta ou caderno azul e um aparelho tipo rádio/TV na bancada, que o trecho não cita",
+       "Mãos de Lia em destaque"
+      ],
+      "assunto_y": [
+       0.05,
+       0.95
+      ],
+      "rostos": [
+       "homem"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s126.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Rádio antigo e caderno azul na mesa: não estão no trecho (risco de spoiler)",
+       "Aparelho azul tipo celular espetado em cima do rádio (objeto que não faz sentido)",
+       "Metade de cima ocupada pela cabeça de Lia e pela luminária; rosto do homem no meio da imagem",
+       "Carta com pseudo-escrita",
+       "Nenhum lado vazio para o texto"
+      ],
+      "assunto_y": [
+       0.05,
+       0.95
+      ],
+      "rostos": [
+       "homem"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s127.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Lia segura o rádio antigo e há um caderno azul na mesa: nada disso está no trecho",
+       "Cabeça de Lia e rosto do homem na metade de cima",
+       "Não há envelope reconhecível; nenhum lado vazio para o título",
+       "Mãos em destaque"
+      ],
+      "assunto_y": [
+       0.1,
+       0.95
+      ],
+      "rostos": [
+       "homem"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s128.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Rádio de madeira e dois cadernos azuis na mesa: fora do trecho",
+       "Cabeça de Lia e rosto do homem invadem a metade de cima",
+       "Pseudo-escrita na folha",
+       "Nenhum lado vazio para o texto"
+      ],
+      "assunto_y": [
+       0.05,
+       0.95
+      ],
+      "rostos": [
+       "homem"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s129.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Homem segurando um caderno azul (objeto da Lia, fora do trecho); há um rádio na bancada",
+       "Rosto do homem de frente acima da metade da imagem; cabeça de Lia ocupa o alto da esquerda",
+       "Composição centralizada, sem lado vazio para o texto",
+       "Luminária cortada na borda de cima"
+      ],
+      "assunto_y": [
+       0.15,
+       0.95
+      ],
+      "rostos": [
+       "homem"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s130.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Rádio antigo no centro da mesa e caderno azul nas mãos de Lia: fora do trecho",
+       "Rosto do homem de frente na metade de cima",
+       "Micro-ondas moderno na bancada, destoando da casa antiga",
+       "Sem lado vazio para o texto"
+      ],
+      "assunto_y": [
+       0.15,
+       0.95
+      ],
+      "rostos": [
+       "homem"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s131.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Rádio antigo em destaque na mesa: não está no trecho",
+       "Rosto do homem na faixa de 30-45% da altura, dentro da área do título",
+       "Mão do homem com o objeto azul ficou confusa",
+       "Sem lado vazio para o texto"
+      ],
+      "assunto_y": [
+       0.2,
+       0.95
+      ],
+      "rostos": [
+       "homem"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s132.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Rádio com mostrador de pseudo-escrita e caderno azul: fora do trecho",
+       "Rosto do homem e cabeça de Lia na metade de cima",
+       "Três papéis/envelopes espalhados, longe da 'pilha com exatamente uma carta aberta'",
+       "Sem lado vazio para o texto"
+      ],
+      "assunto_y": [
+       0.2,
+       0.95
+      ],
+      "rostos": [
+       "homem"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s133.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Saíram duas imagens coladas: uma linha branca vertical no meio separa o lado esquerdo, que é ilustração, do lado direito, que parece foto desfocada. Não é um quadro único.",
+       "O homem aparece grande, de pé, em 3/4, e a cabeça dele fica a cerca de 20% da altura, dentro da metade de cima que deve ficar vazia para o título.",
+       "Na mesa há papéis soltos sem envelopes e nenhuma carta dobrada. O banco e o envelope não aparecem.",
+       "O pedido não dá o id desse homem e ele não tem ficha, então não dá para conferir se é a personagem certa.",
+       "Ele está sem o celular na mão, ao contrário do que o pedido diz."
+      ],
+      "assunto_y": [
+       0.15,
+       0.9
+      ],
+      "rostos": [
+       "homem_sem_ficha"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s134.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Saíram duas imagens coladas, com uma linha branca vertical no meio e estilos diferentes de cada lado.",
+       "O rosto do homem está na metade de cima (entre 20% e 30% da altura), quase encostado na luminária.",
+       "Na mesa há folhas soltas, sem pilha de envelopes e sem uma carta dobrada que se destaque.",
+       "As mãos com o celular ficam no centro do quadro, mas o pedido dizia que não deviam aparecer mãos.",
+       "O homem não tem ficha nem id."
+      ],
+      "assunto_y": [
+       0.15,
+       0.9
+      ],
+      "rostos": [
+       "homem_sem_ficha"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s135.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Saíram duas imagens coladas: ilustração de um lado e foto do outro, com corte vertical no meio.",
+       "O homem está de frente, centralizado, com o rosto grande na metade de cima (cerca de 20% a 35% da altura). Isso contraria a regra de deixar as personagens pequenas, de costas ou desfocadas.",
+       "Na mesa há papéis em branco sem envelopes, e a carta dobrada não aparece.",
+       "Mãos e celular aparecem em destaque.",
+       "O homem não tem ficha nem id."
+      ],
+      "assunto_y": [
+       0.15,
+       0.88
+      ],
+      "rostos": [
+       "homem_sem_ficha"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s136.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Saíram duas imagens coladas, com uma linha vertical no meio e estilos diferentes de cada lado.",
+       "A folha de cima tem letras inventadas bem legíveis (pseudo-escrita), mas o pedido era para o texto não aparecer.",
+       "Os papéis estão soltos e espalhados, sem envelopes e sem uma carta dobrada.",
+       "O rosto do homem está de frente, grande, na metade de cima.",
+       "Mãos e celular aparecem em destaque.",
+       "O homem não tem ficha nem id."
+      ],
+      "assunto_y": [
+       0.15,
+       0.9
+      ],
+      "rostos": [
+       "homem_sem_ficha"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s137.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Imagem partida ao meio por uma emenda vertical dura (vira um díptico com dois painéis, não um quadro só)",
+       "Homem de frente, nítido, com o rosto bem no meio da metade de cima (onde entra o título); devia estar desfocado, de perfil e baixo",
+       "Personagem sem ficha na série (descrição colada no pedido, 'Same Brazilian man'), e não está 'standing in a hallway' de perfil",
+       "Mãos e celular em destaque no centro",
+       "Sobre a mesa só há folhas soltas; não se vê pilha de envelopes do banco"
+      ],
+      "assunto_y": [
+       0.17,
+       0.88
+      ],
+      "rostos": [
+       "homem_sem_ficha"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s138.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Emenda vertical clara (linha branca) separando dois painéis",
+       "Pseudo-escrita legível na carta de cima",
+       "Rosto do homem de frente, nítido, na metade de cima",
+       "Mãos e celular em destaque",
+       "Não há envelopes, só folhas"
+      ],
+      "assunto_y": [
+       0.17,
+       0.86
+      ],
+      "rostos": [
+       "homem_sem_ficha"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s139.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Emenda vertical dura no meio (díptico)",
+       "Mancha de luz amarela 'derretida' sobre a mesa, ao lado das folhas",
+       "Pseudo-escrita na carta",
+       "Homem nítido em 3/4 com o rosto na metade de cima, mãos e celular em destaque",
+       "Não há envelopes visíveis"
+      ],
+      "assunto_y": [
+       0.17,
+       0.9
+      ],
+      "rostos": [
+       "homem_sem_ficha"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s140.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Emenda vertical dura no meio (díptico)",
+       "Pseudo-escrita na carta de cima",
+       "Homem de frente, nítido, rosto na metade de cima; sem celular, apesar do pedido",
+       "Sombra de figura estranha projetada na parede da direita do painel",
+       "Mais de uma carta aberta; envelopes pouco claros"
+      ],
+      "assunto_y": [
+       0.12,
+       0.88
+      ],
+      "rostos": [
+       "homem_sem_ficha"
+      ],
+      "rosto_grande_de_frente": true
+     },
+     "mini_envelopes_s141.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Não há nenhum envelope: são folhas soltas, sem aba nem formato de envelope, e o objeto central do trecho (o envelope do banco) não se reconhece",
+       "A contagem não confere: há três folhas iguais e nenhuma é uma folha dobrada por cima de três envelopes",
+       "A luminária aparece inteira e acesa no alto à esquerda e a janela azul clara ocupa o alto à direita, então a metade de cima não fica escura e vazia para o título"
+      ],
+      "assunto_y": [
+       0.74,
+       0.93
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "mini_envelopes_s142.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Os papéis são folhas lisas e não envelopes, então não se lê 'carta do banco'",
+       "A contagem não confere: não há três envelopes com uma folha dobrada por cima",
+       "A lâmpada aparece no quadro (no alto à esquerda) e a janela azul brilhante fica na metade de cima, o que disputa com o título",
+       "É a mais bonita do lote em luz e clima, mas falha no objeto da história"
+      ],
+      "assunto_y": [
+       0.71,
+       0.88
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "mini_envelopes_s143.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "É uma pilha de quatro ou cinco folhas de papel, não três envelopes com uma folha dobrada",
+       "Não há nenhum envelope reconhecível",
+       "A luminária fica dentro do quadro no alto à esquerda e a janela iluminada fica na metade de cima"
+      ],
+      "assunto_y": [
+       0.71,
+       0.9
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "mini_envelopes_s144.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "São dois blocos de papel, parecidos com cadernos ou blocos de notas, e não três envelopes com uma folha dobrada",
+       "A contagem e o tipo de objeto estão errados",
+       "Tem um micro-ondas moderno em destaque, que destoa da casa antiga da avó",
+       "A luminária e a janela clara ficam na metade de cima"
+      ],
+      "assunto_y": [
+       0.73,
+       0.89
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     }
+    },
+    "rodadas": 3,
+    "comentario": "Reprovei as quatro. A luz e o clima estão bons em todas: uma luz quente, sombras azul-marinho, ninguém em cena e nenhuma escrita inventada. O problema é o objeto da história. O gerador desenhou folhas de papel lisas ou blocos de notas, e em nenhuma imagem dá para reconhecer um envelope, que é justamente o que o trecho revela (a carta do banco). A contagem pedida, três envelopes e uma folha dobrada por cima, também não bate em nenhuma. Além disso, em todas a luminária aparece inteira no alto e a janela clara fica na metade de cima, onde entra o título. A s142 tem a composição mais bonita e serviria de modelo de luz. Para a próxima rodada, cortei as exigências pela metade. O pedido agora tem um único envelope, como no trecho ('empurrou um envelope'), com aba triangular visível e a carta dobrada saindo de dentro. Também tirei a luminária e a janela do texto, porque tudo o que é nomeado acaba desenhado.",
+    "melhores": [],
+    "em": "2026-11-06 19:18"
+   },
+   "sem_candidata_boa": true,
+   "escolhida": "mini_envelopes_s141.png"
+  },
+  {
+   "id": "topo_cozinha",
+   "uso": "topo wattpad",
+   "formato": "panorama",
+   "prompt": "Wide panoramic view of an empty old grandmother's kitchen, no people, no table, no chairs. Camera low at counter height, close to the worn sink on the left third of the frame: in the foreground, sitting on the counter beside the sink, exactly one white ceramic coffee cup, completely dry, no liquid inside, with one red lipstick mark on the rim, in sharp focus. Behind it, softly blurred, an old rounded 1990s white refrigerator and, on the right side, a closed dark window with faint blurred blue light outside. One single warm pendant lamp glow from above, creating a small pool of amber light on the cup and counter; the rest of the room in cool deep navy shadow. Still, mournful, lived-in atmosphere, cinematic, shallow depth of field, no text, no letters, no papers anywhere. Cool, dark cinematic palette: deep navy and blue shadows, ONE single warm light source; the upper half of the image is dark and empty (only shadow and blurred wall, no important objects there); the cup and the sink sit in the lower half of the image.",
+   "trecho": "A casa da minha avó ainda cheirava a café requentado quando eu cheguei, três dias depois do enterro.",
+   "seed": 135,
+   "triagem": {
+    "vistas": [
+     "topo_cozinha_s131.png",
+     "topo_cozinha_s132.png",
+     "topo_cozinha_s133.png",
+     "topo_cozinha_s134.png",
+     "topo_cozinha_s135.png",
+     "topo_cozinha_s136.png",
+     "topo_cozinha_s137.png",
+     "topo_cozinha_s138.png"
+    ],
+    "resultado": {
+     "topo_cozinha_s131.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Contagem: tem QUATRO cadeiras em volta da mesa. O pedido diz exatamente duas.",
+       "A luminária, a janela e o alto da geladeira ficam na metade de cima. A janela e a luminária são luz de fundo e passariam, mas a cena ocupa quase toda a altura.",
+       "A xícara com batom está certa: é uma só, fica sobre a pia e tem a marca vermelha na borda."
+      ],
+      "assunto_y": [
+       0.55,
+       0.75
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "topo_cozinha_s132.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Contagem: tem DUAS xícaras com marca vermelha (uma atrás da cuba, outra na bancada). O pedido diz exatamente uma.",
+       "Contagem: tem TRÊS cadeiras. O pedido diz exatamente duas.",
+       "Os papéis sobre a mesa trazem rabiscos que lembram escrita."
+      ],
+      "assunto_y": [
+       0.6,
+       0.8
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "topo_cozinha_s133.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Contagem: tem QUATRO cadeiras. O pedido diz exatamente duas.",
+       "A xícara está dentro da cuba, e não em cima da pia/bancada como diz o trecho. É uma observação menor.",
+       "Fora a contagem, é a mais limpa e bonita: uma xícara só, luz única e clima certo."
+      ],
+      "assunto_y": [
+       0.6,
+       0.72
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "topo_cozinha_s134.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Contagem: tem QUATRO cadeiras. O pedido diz exatamente duas.",
+       "Tem duas pilhas de papel na mesa, e não uma pilha pequena de envelopes.",
+       "A xícara é pequena e se perde na composição; o objeto principal da história não ganha destaque."
+      ],
+      "assunto_y": [
+       0.57,
+       0.68
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "topo_cozinha_s135.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Pia com duas torneiras/bicas lado a lado (objeto duplicado, defeito de geração)",
+       "A xícara parece flutuar sobre a cuba, sem apoio claro na borda ou no balcão",
+       "A marca de batom é uma mancha no corpo da xícara, não na borda",
+       "Uma segunda janela cortada no canto superior esquerdo polui a metade de cima"
+      ],
+      "assunto_y": [
+       0.7,
+       0.9
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "topo_cozinha_s136.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "Contagem errada: a xícara tem duas marcas vermelhas em forma de coração, que parecem estampa, e o pedido era exactly one marca de batom",
+       "A xícara flutua sobre a cuba, sem apoio",
+       "Prateleira com potes e rótulos e frasco de sabão com rótulo no alto à esquerda (risco de pseudo-escrita e elementos na metade de cima)",
+       "Puxador da geladeira deformado"
+      ],
+      "assunto_y": [
+       0.66,
+       0.9
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "topo_cozinha_s137.png": {
+      "aprovada": true,
+      "nota": 7,
+      "problemas": [
+       "Observação: a marca vermelha fica logo abaixo da borda e lembra um pouco uma gota. É aceitável como batom.",
+       "Observação: a xícara se apoia na borda de trás da cuba, um apoio ambíguo, mas plausível",
+       "Observação: a luminária e o topo da geladeira entram na metade de cima, mas são fundo escuro e fonte de luz, nada que concorra com o título"
+      ],
+      "assunto_y": [
+       0.64,
+       0.92
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     },
+     "topo_cozinha_s138.png": {
+      "aprovada": false,
+      "nota": 0,
+      "problemas": [
+       "A xícara tem líquido escuro dentro, e o pedido era completely dry, no liquid inside",
+       "Duas marcas vermelhas escorrendo, que parecem sangue, quando o pedido era exactly one marca de batom",
+       "A xícara flutua sobre a cuba"
+      ],
+      "assunto_y": [
+       0.7,
+       0.92
+      ],
+      "rostos": [],
+      "rosto_grande_de_frente": false
+     }
+    },
+    "rodadas": 2,
+    "comentario": "Só a s137 passou. Tem uma única xícara vazia com uma só marca vermelha perto da borda, uma torneira só, e a cozinha antiga está certa. Há uma única luz quente e o resto fica em sombra azul-marinho. A xícara e a pia estão na metade de baixo, e a metade de cima tem só parede escura, geladeira desfocada e a luminária. As outras três foram reprovadas. A s135 tem duas torneiras na mesma pia. A s136 tem duas marcas em forma de coração e rótulos na prateleira. A s138 tem líquido escuro dentro da xícara e duas marcas que escorrem como sangue. Em quase todas a xícara parece flutuar sobre a cuba. Na próxima rodada vale pedir a xícara apoiada no balcão, ao lado da pia, e não em cima da cuba.",
+    "melhores": [
+     "topo_cozinha_s137.png"
+    ],
+    "em": "2026-11-06 18:31"
+   },
+   "prompt_original": "Wide panoramic view of an empty old grandmother's kitchen, no people. From left to right: a worn sink with exactly one white ceramic cup with a red lipstick mark on the rim sitting on the counter, an old rounded 1990s white refrigerator, and a wooden kitchen table with exactly two wooden chairs and a small pile of plain envelopes. One single warm pendant lamp hangs over the table, creating a small pool of amber light; the rest of the room in cool deep navy shadow, a dark window with faint blurred blue light outside. Still, mournful, lived-in atmosphere, cinematic, shallow depth of field, no text anywhere.",
+   "pre_escolhida": "topo_cozinha_s137.png",
+   "prazo_escolha": 1794000857.0816424,
+   "escolhida": "topo_cozinha_s137.png",
+   "escolha_auto": true,
+   "ampliada_de": "topo_cozinha_s137.png"
+  }
+ ]
+}

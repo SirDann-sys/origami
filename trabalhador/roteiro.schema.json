@@ -1,0 +1,16 @@
+{
+ "type": "object",
+ "properties": {
+  "partes": {"type": "array", "items": {"type": "object", "properties": {
+    "parte": {"type": "integer"}, "humor": {"type": "string"}, "final": {"type": "string"}, "ambiente": {"type": "string"},
+    "falas": {"type": "array", "items": {"type": "object", "properties": {
+      "voz": {"type": "string"}, "texto": {"type": "string"}, "estilo": {"type": "string"}, "pausa": {"type": "number"}},
+      "required": ["voz", "texto", "pausa"]}},
+    "segmentos": {"type": "array", "items": {"type": "array", "items": {"type": ["integer", "string"]}, "minItems": 3, "maxItems": 3}}},
+    "required": ["parte", "humor", "final", "ambiente", "falas", "segmentos"]}},
+  "vozes_novas": {"type": "array", "items": {"type": "object", "properties": {"id": {"type": "string"}, "nome": {"type": "string"}, "descricao": {"type": "string"}}, "required": ["id", "nome", "descricao"]}},
+  "fundos_novos": {"type": "array", "items": {"type": "object", "properties": {"id": {"type": "string"}, "prompt": {"type": "string"}}, "required": ["id", "prompt"]}},
+  "observacoes": {"type": "array", "items": {"type": "string"}}
+ },
+ "required": ["partes", "vozes_novas", "fundos_novos", "observacoes"]
+}

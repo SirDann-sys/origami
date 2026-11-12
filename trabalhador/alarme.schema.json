@@ -1,0 +1,10 @@
+{
+ "type": "object",
+ "properties": {
+  "alertas": {"type": "array", "items": {"type": "object", "properties": {
+    "gravidade": {"type": "string", "enum": ["critico", "atencao"]},
+    "trecho": {"type": "string"}, "problema": {"type": "string"}, "sugestao": {"type": "string"}},
+    "required": ["gravidade", "trecho", "problema", "sugestao"]}}
+ },
+ "required": ["alertas"]
+}
