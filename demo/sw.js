@@ -1,12 +1,15 @@
 // Origami · demo estática: o service worker faz o papel do motor.
 // /api/* e /estado → respostas gravadas pelo exportador (manifesto.json); /arquivo?c=… → o arquivo estático;
 // qualquer POST → "indisponível na demonstração". Assim a interface roda sem nenhuma mudança.
-const VERSAO = 'origami-demo-v2';
+const VERSAO = 'origami-demo-v3';
 const IGNORAR = new Set(['t', 'desde']);
 let manifesto = null;
 
 self.addEventListener('install', () => self.skipWaiting());
-self.addEventListener('activate', (e) => e.waitUntil(self.clients.claim()));
+self.addEventListener('activate', (e) => e.waitUntil((async () => {
+  for (const k of await caches.keys()) if (k !== VERSAO) await caches.delete(k);     // limpa versões antigas
+  await self.clients.claim();
+})()));
 
 function chave(url) {
   const p = [...url.searchParams.entries()].filter(([k]) => !IGNORAR.has(k)).sort(([a], [b]) => (a < b ? -1 : a > b ? 1 : 0));
@@ -38,10 +41,43 @@ async function arquivo(req, url) {
   const c = (url.searchParams.get('c') || '').replace(/\\/g, '/').replace(/^\/+/, '');
   if (!c || c.includes('..')) return json({ erro: 'arquivo não encontrado' }, 404);
   const alvo = '/' + c.split('/').map(encodeURIComponent).join('/');
-  const h = new Headers();
   const range = req.headers.get('Range');
-  if (range) h.set('Range', range);                          // vídeo e áudio: o player pede pedaços
-  return fetch(alvo, { headers: h });
+  if (!range) return fetch(alvo);
+  return pedaco(alvo, range);
+}
+
+// Vídeo e áudio pedem pedaços (Range) para poder pular. Nem toda hospedagem estática responde 206,
+// então o próprio worker corta o pedaço: baixa o arquivo uma vez (Cache API) e responde 206.
+const MEMORIA = new Map();                                    // últimos arquivos inteiros, para não reler a cada pedaço
+async function inteiro(alvo) {
+  if (MEMORIA.has(alvo)) return MEMORIA.get(alvo);
+  const cache = await caches.open(VERSAO);
+  let r = await cache.match(alvo);
+  if (!r) {
+    r = await fetch(alvo);
+    if (!r.ok) return null;
+    await cache.put(alvo, r.clone());
+  }
+  const dado = { buf: await r.arrayBuffer(), tipo: r.headers.get('Content-Type') || 'application/octet-stream' };
+  MEMORIA.set(alvo, dado);
+  if (MEMORIA.size > 3) MEMORIA.delete(MEMORIA.keys().next().value);
+  return dado;
+}
+
+async function pedaco(alvo, range) {
+  const d = await inteiro(alvo);
+  if (!d) return fetch(alvo);
+  const total = d.buf.byteLength;
+  const m = /bytes=(\d*)-(\d*)/.exec(range) || [];
+  let ini, fim;
+  if (m[1] === '' && m[2]) { ini = Math.max(0, total - Number(m[2])); fim = total - 1; }   // "bytes=-500": os últimos 500
+  else { ini = Number(m[1] || 0); fim = m[2] ? Math.min(Number(m[2]), total - 1) : total - 1; }
+  if (ini >= total) return new Response(null, { status: 416, headers: { 'Content-Range': `bytes */${total}` } });
+  return new Response(d.buf.slice(ini, fim + 1), {
+    status: 206,
+    headers: { 'Content-Type': d.tipo, 'Content-Range': `bytes ${ini}-${fim}/${total}`,
+               'Content-Length': String(fim - ini + 1), 'Accept-Ranges': 'bytes' },
+  });
 }
 
 self.addEventListener('fetch', (e) => {
